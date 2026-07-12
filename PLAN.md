@@ -379,8 +379,7 @@ Push. STOP. Checkpoint.
    `content/updates/<page>/` drop-zone folders, or would you rather point Sonnet at
    specific folders/files as each page comes up?
 2. Early access: keep a (new) Google Form, or replace with mailto / the RPRT support page?
-3. Font voice: Archivo + JetBrains Mono (kin to Right Place Right Time) or
-   Fraunces + Space Grotesk (kin to aura-oi)?
+3. ~~Font voice~~: RESOLVED 2026-07-12, Archivo + JetBrains Mono confirmed.
 4. Aura O.i. app (`aura-oi`): publish timing, so the "Experience Aura O.i." link can go live.
 5. ~~`gh` CLI login~~: RESOLVED, confirmed authenticated as `auraofintelligence`.
 6. ~~`new-home` vs `home`~~: RESOLVED 2026-07-12, keep the fuller "Cosmic Nexus" version

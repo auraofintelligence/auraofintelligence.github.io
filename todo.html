@@ -9,7 +9,7 @@
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
   <link rel="preload" href="assets/fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="assets/fonts/jetbrains-mono-var.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="styles.css?v=1">
+  <link rel="stylesheet" href="styles.css?v=2">
 </head>
 <body data-page="todo">
   <a class="skip-link" href="#main">Skip to content</a>
@@ -47,7 +47,6 @@
       <div class="todo-group reveal">
         <h2>Decisions</h2>
         <ul class="todo-list">
-          <li>Font voice: this build defaulted to Archivo + JetBrains Mono (matches Right Place, Right Time) since you hadn't picked yet; say the word if you'd rather Fraunces + Space Grotesk (matches aura-oi), it's a cheap swap.</li>
           <li>Early access: still using the old Google Form link on salvaged pages. Keep it, or replace with mailto / the Right Place, Right Time support page?</li>
           <li>Aura O.i. app (<code>aura-oi</code>): let me know when it's ready to publish so the "Experience Aura O.i." link can go live from the homepage.</li>
           <li>Anti-Dementia page: NDIS framing is still pending your direction; drop notes into <code>content/updates/anti-dementia/</code> whenever you're ready.</li>
@@ -75,6 +74,10 @@
         <div><p class="eyebrow">Dated updates</p><h2>What's shipped</h2></div>
       </div>
       <div class="reveal">
+        <div class="log-entry">
+          <time datetime="2026-07-12">12 July 2026</time>
+          <p>Fixed the squished images (real dimensions now, not guessed) and a stale-cache bug that kept some visitors seeing the old broken version; bumped the stylesheet version so browsers pick up the fix. Font voice confirmed: Archivo + JetBrains Mono it is.</p>
+        </div>
         <div class="log-entry">
           <time datetime="2026-07-12">12 July 2026</time>
           <p>Phase 1 (chassis) live: the site is published and growing in public. Home page, this build log, and the Aura Builder page are the first pages built end to end; every other page in the index links somewhere, but most aren't built yet (you'll hit a friendly "still building" page, not a broken one). All 219 images from the old site are in place as placeholders.</p>
