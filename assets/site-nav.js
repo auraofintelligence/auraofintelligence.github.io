@@ -29,7 +29,8 @@
         { href: 'videos.html', title: 'Videos', note: 'Everything on screen.' },
         { href: 'contact.html', title: 'Contact', note: 'Get in touch.' },
         { href: 'todo.html', title: 'Build log & todo', note: "What's done, what's next, dated." },
-        { href: 'colophon.html', title: 'Colophon', note: 'How this site itself is built.' }
+        { href: 'colophon.html', title: 'Colophon', note: 'How this site itself is built.' },
+        { href: 'sitemap.html', title: 'Site map', note: 'Every page and every link out, in one place.' }
       ]
     },
     {
@@ -294,7 +295,11 @@
       <div>
         <strong>${section.label}</strong>
         <ul>${section.links.slice(0, 6).map((link) => `<li><a href="${P}${link.href}">${link.title}</a></li>`).join('')}</ul>
-      </div>`).join('');
+      </div>`).join('') + `
+      <div>
+        <strong>Everything</strong>
+        <ul><li><a href="${P}sitemap.html">Full site map</a></li></ul>
+      </div>`;
     footer.insertAdjacentElement('afterbegin', explore);
   });
 
