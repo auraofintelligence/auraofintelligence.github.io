@@ -502,3 +502,27 @@ Push. STOP. Checkpoint.
   errors, zero em dashes. Pushed. Life & Living family (4/4) complete; 9 of 17 pathway
   pages done overall. Next: Phase 3 batch C (Events & Event Management, Calendar of
   Events, Music Creation, Gamification, Space Weather & Climate).
+- 2026-07-12: Founder bio corrected on the home page per Luke: project origin is the 2014
+  notebook sketches (an evolving concept), NOT a Dec 2022 Brisbane "first version"; day job
+  is Strange but True on Straddie (NOT lukecatalyst consulting); Lumbini was 2024 during the
+  Aug 2023 to July 2024 India/Nepal trip; "back the work" link now points to Right Place,
+  Right Time (lukecatalyst is an old portfolio). These are durable founder facts, saved to
+  memory.
+- 2026-07-12: **Phases 3 and 4 complete.** Powered through the rest of the build with Opus
+  driving four parallel subagents plus hand-built structural pieces. Shipped: Phase 3 batch
+  C (aura-events pitch page from the drop-zone brief, calendar-of-events with a data-driven
+  blank month calendar + assets/events-data.js, music, gamification, space-weather-vr),
+  batch D (aura-capsule-hotels, tinkering-labs, ai-auto-farm, space-industry,
+  subterranean-cities), the filterable pathways/index.html showcase + assets/pathways-data.js
+  (17 tools, family filter, verified: All=17, Frontiers=5, imageless Events card gets an
+  aura tile), and all of Phase 4 (alpha-infinity-foundation, anti-dementia [built from
+  salvage as-is, zero NDIS language, confirmed by grep], cosmic-nexus [travel-club-first
+  framing per Luke, venue vision kept], tool-kit, cloud-compute, podcasts, choice-content,
+  affiliates, blog, aura-store). Calendar + pathways use small inline <style> blocks for
+  their one-off widgets to avoid bumping the shared stylesheet version. Verification: all 35
+  HTML pages present, every referenced image resolves on disk, zero em dashes repo-wide,
+  console clean on spot-checked pages, only "broken" links are the Phase 5 courses pages
+  (404 handles them gracefully) and 404.html's intentional absolute paths. Subagents were
+  briefed to cross-check image order against the manifest's DALL-E descriptions and all
+  reported doing so. Pushed. **Only Phase 5 (Courses hub) and Phase 6/7 (polish, domain
+  readiness) remain.**
