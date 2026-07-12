@@ -572,3 +572,20 @@ Push. STOP. Checkpoint.
   status-label placeholders) until a real YouTube ID lands in courses-data.js. Remaining:
   Phase 6 (funk/polish audit), Phase 7 (DOMAIN.md handover), and the optional Phase 4
   "More from Aura" thesis-voice pass.
+- 2026-07-12: Courses reframed and expanded per Luke. Key correction: the Straddie/local
+  project courses are NOT finished services; they're ungrounded works-in-progress Luke is
+  building solo+AI that need community to become real (see the new memory
+  aura-courses-as-adaptable-examples). Every local course now carries two moves: "What I'm
+  building here" (honest island example, needs community, invitation to get involved) and
+  "Build your own, wherever you are" (transferable worked example, custom to the reader's
+  place and lived experience). No status badges, just honest prose. Mined the Strange but
+  True community ledger for course-worthy projects (skipped venue concepts, records and
+  meta-frameworks). Catalogue grew from 6 to 14 courses; the hub now groups by track (Start
+  here / Local: Minjerribah x9 / National & regional / World / Back the work / Frontiers).
+  New local courses: noticeboard, film-on-phone, place-digital-twin, legal-memory,
+  night-market, makerspace, disaster-kiosks, shared-table (shared-table framed as
+  mobilisation of care, never monetisation). Existing straddie-projects refocused to
+  "Grants & tenders". Built via 2 agents anchored to a hand-built exemplar (night-market).
+  Verified: zero em dashes, all 14 course ids have pages, all links resolve, care language
+  correct, console clean. These local courses are the ones Luke will record short videos
+  for. Remaining: Phase 6 polish, Phase 7 DOMAIN.md, optional Phase 4 voice pass.

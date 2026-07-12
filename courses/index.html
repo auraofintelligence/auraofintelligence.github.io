@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="../styles.css?v=2">
   <style>
     /* Courses hub: page-specific card treatment. */
+    .course-track { margin-bottom: 2.4rem; }
+    .track-title { font-family: var(--font-mono); font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--gold); margin: 0 0 .9rem; padding-bottom: .5rem; border-bottom: 1px solid var(--line); }
     .course-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: .9rem; }
     .course-card { display: flex; flex-direction: column; min-height: 13rem; padding: 1.15rem; border: 1px solid var(--line); border-radius: var(--radius); background: linear-gradient(150deg, rgba(124,77,255,.18), rgba(10,10,22,.78)); box-shadow: 0 20px 60px rgba(0,0,0,.32); text-decoration: none; transition: transform .3s var(--ease-out), border-color .2s; }
     .course-card:hover { transform: translateY(-4px); border-color: rgba(43,227,194,.55); }
@@ -46,7 +48,7 @@
       <div class="hero-content reveal">
         <p class="eyebrow">Learn to build your own</p>
         <h1>Courses</h1>
-        <p class="hero-copy">Short courses on building your own software and systems, so you own them instead of renting from big tech. The short courses are presented by a digital avatar of Luke; the live streams are the human. Some come with a builder you can use right here in your browser.</p>
+        <p class="hero-copy">Short courses on building your own software and systems, so you own them instead of renting from big tech. Many are worked examples from Luke's own island: real attempts you can learn from and rebuild, custom to your own place and life. The short courses are presented by a digital avatar of Luke; the live streams are the human. Some come with a builder you can use right here in your browser.</p>
       </div>
     </section>
 
@@ -54,11 +56,11 @@
       <div class="section-heading reveal">
         <div>
           <p class="eyebrow">The courses</p>
-          <h2>Start anywhere. Take only what's yours to keep.</h2>
+          <h2>Start anywhere. Build your own version.</h2>
         </div>
-        <p>Each course is about real work Luke is already doing, out in the open across his other projects. The blurbs and links are live today; the videos and live streams arrive as they're recorded.</p>
+        <p>Many of these are things Luke is working to start on Minjerribah, on his own with AI, that only truly come alive with community. Shared here, they become worked examples anyone can learn from and rebuild, custom to their own place. The links are live today; the videos and live streams arrive as they're recorded.</p>
       </div>
-      <div class="course-grid reveal" data-course-grid></div>
+      <div class="reveal" data-course-mount></div>
     </section>
 
     <section class="section" id="how-made">
@@ -92,18 +94,23 @@
   <script defer>
     window.addEventListener('DOMContentLoaded', function () {
       var data = window.AURA_COURSES || [];
-      var grid = document.querySelector('[data-course-grid]');
-      if (!grid) { return; }
+      var mount = document.querySelector('[data-course-mount]');
+      if (!mount) { return; }
       function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
-      grid.innerHTML = data.map(function (c) {
+      var order = [];
+      data.forEach(function (c) { if (order.indexOf(c.family) < 0) { order.push(c.family); } });
+      function card(c) {
         var badge = c.generator ? '<span class="badge">Try it in your browser</span>' : '';
         return '<a class="course-card" href="' + esc(c.id) + '.html">' +
-          '<span class="fam">' + esc(c.family) + '</span>' +
           badge +
           '<h3>' + esc(c.title) + '</h3>' +
           '<p>' + esc(c.blurb) + '</p>' +
           '<span class="go">Open the course &rsaquo;</span>' +
           '</a>';
+      }
+      mount.innerHTML = order.map(function (fam) {
+        var cards = data.filter(function (c) { return c.family === fam; }).map(card).join('');
+        return '<div class="course-track"><h3 class="track-title">' + esc(fam) + '</h3><div class="course-grid">' + cards + '</div></div>';
       }).join('');
     });
   </script>
