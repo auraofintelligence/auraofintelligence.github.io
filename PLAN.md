@@ -53,6 +53,14 @@ not a developer. No jargon without a one-line plain-English gloss.
     sits on, preserve Luke's original wording and flag it in todo.html.
 - Front-page copy is **Luke's first person, feeling-led**. Process-meta ("built with AI",
   "static site") belongs on a colophon/workshop page only, never on front pages.
+- **Evolving craft, not a finished product** (Luke's correction, 2026-07-12). Never frame a
+  pathway as a completed deliverable ("our tool does X", "every detail is at your command").
+  Each one is an ongoing practice of developing the right tool for the person actually
+  using it: their imagination, their resources, their resourcefulness. Show the tool
+  learning and growing toward the user, not the user conforming to a finished feature set.
+  This is a real gap in the salvaged copy (which reads as standard "our product delivers"
+  marketing voice); apply the corrected framing to every page still carrying it, not just
+  the one Luke flagged.
 - **No year-crutch**: never stamp "since 2019" / "2022 vision" provenance into product copy.
   Milestones, not years. The system is for everyone, now.
 - **Present the vision whole. No status labels.** Do NOT tag pages or tools with badges like

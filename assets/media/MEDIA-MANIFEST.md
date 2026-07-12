@@ -278,3 +278,8 @@ the actual playlist ID from the embed URL.
 - Every `gallery` purpose tag is a first-pass guess (images numbered in page
   order, first image called `hero`). Re-check and rename purpose tags
   (portrait/card/bg) during Phase 1-4 as each page's actual layout is built.
+- `home--gallery-11.webp` is harvested under the `home` slug (it was part of
+  the old homepage's tool showcase) but is actually rendered on
+  `aura-events.html`, since that is the page it depicts. The filename prefix
+  reflects where it was salvaged from, not where it is used; if Luke replaces
+  it, drop the new file in under this same filename.

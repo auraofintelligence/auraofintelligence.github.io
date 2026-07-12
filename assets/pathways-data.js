@@ -14,7 +14,7 @@ window.AURA_PATHWAYS = [
   { id: 'generative-a-i', title: 'Generative A.I. Customisation', family: 'Life & living', pitch: 'Images, video, 3D, music and worlds, made to order.', href: 'generative-a-i.html', img: 'generative-a-i--hero-01.webp', w: 1920, h: 1920 },
   { id: 'smart-devices', title: 'Smart IoT Devices', family: 'Life & living', pitch: 'Every device in your life, working together.', href: 'smart-devices.html', img: 'smart-devices--hero-01.webp', w: 1920, h: 1920 },
   { id: 'blockchain', title: 'Blockchain', family: 'Life & living', pitch: 'GAJRA Earth and what trust looks like on-chain.', href: 'blockchain.html', img: 'blockchain--hero-01.webp', w: 1920, h: 1920 },
-  { id: 'aura-events', title: 'Events & Event Management', family: 'Events, music & play', pitch: 'Craft the unforgettable: every event a masterpiece.', href: 'aura-events.html', img: null, w: 0, h: 0 },
+  { id: 'aura-events', title: 'Events & Event Management', family: 'Events, music & play', pitch: 'Craft the unforgettable: every event a masterpiece.', href: 'aura-events.html', img: 'home--gallery-11.webp', w: 1200, h: 1200 },
   { id: 'music', title: 'Music Creation', family: 'Events, music & play', pitch: 'Lyrics, music and music videos, AI-assisted.', href: 'music.html', img: 'music--hero-01.webp', w: 1920, h: 1920 },
   { id: 'gamification', title: 'Gamification of Life', family: 'Events, music & play', pitch: 'Play your way to progress with GAJRA.', href: 'gamification.html', img: 'gamification--hero-01.webp', w: 1920, h: 1920 },
   { id: 'space-weather-vr', title: 'Space Weather & Climate', family: 'Events, music & play', pitch: 'Live data, VR education, a studio for the sky.', href: 'space-weather-vr.html', img: 'space-weather-vr--hero-01.webp', w: 1920, h: 1920 },
