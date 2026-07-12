@@ -28,7 +28,8 @@
         { href: 'courses/index.html', title: 'Courses', note: 'Short courses, live streams, and interactive builders.' },
         { href: 'videos.html', title: 'Videos', note: 'Everything on screen.' },
         { href: 'contact.html', title: 'Contact', note: 'Get in touch.' },
-        { href: 'todo.html', title: 'Build log & todo', note: "What's done, what's next, dated." }
+        { href: 'todo.html', title: 'Build log & todo', note: "What's done, what's next, dated." },
+        { href: 'colophon.html', title: 'Colophon', note: 'How this site itself is built.' }
       ]
     },
     {

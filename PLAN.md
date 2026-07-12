@@ -105,6 +105,12 @@ not a developer. No jargon without a one-line plain-English gloss.
     (that alone costs ~1 MB). It shows a poster image with a play button; the real player
     loads only when clicked. One shared helper in `core.js`.
   - `.nojekyll` file at repo root (tells GitHub to serve files as-is).
+- **Bump the cache-busting version on every `styles.css` change.** Every page links it as
+  `styles.css?v=N`. Browsers (and GitHub's CDN) cache it aggressively; if `N` doesn't
+  change, some visitors keep seeing the old stylesheet after a real fix has already
+  shipped, which is exactly what happened in July 2026 (a fix looked broken on Luke's
+  phone purely because of stale cache). Whenever `styles.css` changes, bump `v=` on every
+  page that links it in the same commit, no exceptions.
 - **One shared chassis.** One `styles.css` (design tokens at the top), one `assets/core.js`,
   one data-driven `assets/site-nav.js` that generates the header, footer, breadcrumbs and a
   full-screen site index from a single SECTIONS array: add a page in one place and it
@@ -462,3 +468,16 @@ Push. STOP. Checkpoint.
   page and from this plan, replaced with contextually appropriate colons, semicolons,
   commas or full stops; added as a standing voice rule (no em dashes, ever) so it isn't
   reintroduced in later phases. Pushed.
+- 2026-07-12: Luke's review round two on the live site. Diagnosed and fixed a real layout
+  bug beyond the width/height fix: the image was the first DOM child in each feature-block
+  but the wider grid column was declared first in CSS, so images always landed in the
+  larger column meant for text, making them oversized. Swapped the column order and added
+  a max-height/object-fit safety net. Also bumped styles.css?v=2 across every page: the
+  previous fix was correct on the server but browsers were serving a stale cached
+  stylesheet, a real lesson for every future CSS change (bump the version query string).
+  Font voice confirmed by Luke: Archivo + JetBrains Mono. Phase 2 started: index.html now
+  carries the full founder story (photo, quote, bio) and Our Promise section beyond the
+  Phase 1 hero; contact.html, videos.html and colophon.html (new, "the one page allowed to
+  talk shop") built and verified locally, zero console errors, zero em dashes. Pushed.
+  Still open in Phase 2: nothing else, home/contact/videos/colophon now cover everything
+  Phase 2 scoped. Next: Phase 3 (the seventeen tool pages, batch A).
