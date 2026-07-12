@@ -225,9 +225,9 @@ p { margin-top: 0; }
 /* ---------- Inner-page hero + feature blocks ---------- */
 .page-hero { min-height: min(60vh, 34rem); }
 .page-hero h1 { max-width: 15ch; }
-.feature-block { display: grid; grid-template-columns: minmax(0, 1fr) minmax(18rem, .8fr); gap: 1.4rem; align-items: center; padding: 1.4rem 0; border-top: 1px solid var(--line); }
+.feature-block { display: grid; grid-template-columns: minmax(18rem, .8fr) minmax(0, 1fr); gap: 1.4rem; align-items: center; padding: 1.4rem 0; border-top: 1px solid var(--line); }
 .feature-block:first-of-type { border-top: 0; }
-.feature-block img { width: 100%; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 20px 60px rgba(0,0,0,.32); }
+.feature-block img { width: 100%; max-height: 28rem; object-fit: cover; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 20px 60px rgba(0,0,0,.32); }
 .feature-block .feature-copy h2 { font-size: clamp(1.6rem, 3vw, 2.4rem); margin-bottom: .7rem; }
 .feature-block .feature-copy p { color: var(--muted); }
 .feature-block:nth-of-type(even) { direction: rtl; }
