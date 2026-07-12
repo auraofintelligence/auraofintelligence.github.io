@@ -419,3 +419,21 @@ Push. STOP. Checkpoint.
   NDIS framing deferred by Luke, build from salvaged copy as-is for now. `gh` CLI
   confirmed authenticated. All decisions written into `content/updates/<slug>/` and
   `content/PAGE-INVENTORY.md`. Proceeding to Phase 1.
+- 2026-07-12 - Phase 1 complete, site is LIVE. Built the chassis: styles.css
+  (Aura's own violet/gold/teal-on-deep-ink tokens, leaner than RPRT's grown-organically
+  stylesheet), assets/site-nav.js (adapted RPRT mechanism, full SECTIONS array covering
+  the confirmed IA - 7 groups, 30+ links), assets/core.js (reveal-on-scroll + video
+  facade helper), assets/cinematic.js (2D canvas particle-ring aura effect on the home
+  hero, reduced-motion gated). Fonts self-hosted (Archivo Var + JetBrains Mono Var,
+  copied from right-place-right-time - provisional pending Luke's font-voice answer,
+  logged in todo.html). Built index.html (real hero, associated-sites teaser),
+  aura-builder.html (full template tool page, proves the pattern for the other sixteen),
+  todo.html (real dated entries, public), 404.html (warm "still being built" page,
+  not a dead end). Verified locally: console clean, nav + full-screen index overlay work,
+  mobile 375px has zero horizontal overflow, page core weight ~45KB (half the 90KB
+  budget). git init, public repo auraofintelligence/auraofintelligence.github.io
+  created and pushed, GitHub Pages confirmed live at
+  https://auraofintelligence.github.io/. Local .claude/launch.json added for future
+  preview sessions (also registered in the parent githublocal workspace launch.json as
+  aura-site, port 4195). STOPPED at the Phase 1 checkpoint - awaiting Luke's look
+  at the live site on his own devices before Phase 2 (core pages) begins.
