@@ -53,14 +53,24 @@ not a developer. No jargon without a one-line plain-English gloss.
     sits on, preserve Luke's original wording and flag it in todo.html.
 - Front-page copy is **Luke's first person, feeling-led**. Process-meta ("built with AI",
   "static site") belongs on a colophon/workshop page only, never on front pages.
-- **Evolving craft, not a finished product** (Luke's correction, 2026-07-12). Never frame a
-  pathway as a completed deliverable ("our tool does X", "every detail is at your command").
-  Each one is an ongoing practice of developing the right tool for the person actually
-  using it: their imagination, their resources, their resourcefulness. Show the tool
-  learning and growing toward the user, not the user conforming to a finished feature set.
-  This is a real gap in the salvaged copy (which reads as standard "our product delivers"
-  marketing voice); apply the corrected framing to every page still carrying it, not just
-  the one Luke flagged.
+- **The core thesis: a different way to make software** (Luke, 2026-07-12; this is the
+  whole point of Aura of Intelligence, so every page must carry it). Aura of Intelligence
+  helps each **user build their OWN premium software stack** that they **own** outright,
+  that is **custom to them**, and that **evolves with them**, instead of renting
+  software-as-a-service from big tech forever. The pathways are a reflective journey:
+  walking them lets a user weigh the software in their life (what exists, what doesn't yet)
+  and build **just what's right, just-in-time**, keeping their data and paying no rent. All
+  of it held, in every component, to **joyful responsible abundance**.
+  - So: NEVER frame a pathway as a finished product being sold ("our digital suite delivers
+    X", "every detail at your command"). That is exactly the SaaS-marketing voice this
+    replaces. Do not even frame it as merely Luke's own evolving tool. Frame it as a
+    **method that empowers the reader to reflect, build, own and evolve their own version.**
+  - Through-lines for every page: ownership, custom-fit, evolves-with-you, not SaaS-rent to
+    big tech, your data stays yours, joyful responsible abundance.
+  - The salvaged WordPress copy is written in the wrong (SaaS "our product delivers") voice
+    throughout. `index.html` (the "what this actually is" section), `aura-events.html` and
+    `pathways/index.html` have been corrected; **the other sixteen pathway pages still carry
+    the old framing and need this same rewrite pass.**
 - **No year-crutch**: never stamp "since 2019" / "2022 vision" provenance into product copy.
   Milestones, not years. The system is for everyone, now.
 - **Present the vision whole. No status labels.** Do NOT tag pages or tools with badges like
