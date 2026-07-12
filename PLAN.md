@@ -481,3 +481,14 @@ Push. STOP. Checkpoint.
   talk shop") built and verified locally, zero console errors, zero em dashes. Pushed.
   Still open in Phase 2: nothing else, home/contact/videos/colophon now cover everything
   Phase 2 scoped. Next: Phase 3 (the seventeen tool pages, batch A).
+- 2026-07-12: Phase 3 batch A shipped: avatar-creator.html, mind-palaces.html and
+  world-builder.html built from salvage, AU spelling applied, real image dimensions from
+  MEDIA-MANIFEST.md throughout. Note for future batches: mind-palaces' image upload order
+  didn't match its salvage text order (gallery-02/03/04 needed reordering against the
+  DALL-E filenames' embedded descriptions to match the right section); always check the
+  image's source-URL description in the manifest against the section it's going into,
+  don't assume gallery-N follows the salvage file's heading order. Verified locally, zero
+  console errors, zero em dashes, image layout confirmed non-distorted and proportioned
+  (510x448 rendered, capped by the height safety net). Pushed. Mind & Self family (4/4)
+  is now complete. Next: Phase 3 batch B (Life Planning & Well Being, Generative A.I.,
+  Smart IoT, Blockchain).
