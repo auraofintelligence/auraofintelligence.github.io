@@ -67,10 +67,12 @@ not a developer. No jargon without a one-line plain-English gloss.
     **method that empowers the reader to reflect, build, own and evolve their own version.**
   - Through-lines for every page: ownership, custom-fit, evolves-with-you, not SaaS-rent to
     big tech, your data stays yours, joyful responsible abundance.
-  - The salvaged WordPress copy is written in the wrong (SaaS "our product delivers") voice
-    throughout. `index.html` (the "what this actually is" section), `aura-events.html` and
-    `pathways/index.html` have been corrected; **the other sixteen pathway pages still carry
-    the old framing and need this same rewrite pass.**
+  - The salvaged WordPress copy was written in the wrong (SaaS "our product delivers") voice.
+    As of 2026-07-12 all seventeen pathway pages plus `index.html`, `pathways/index.html`
+    and the meta descriptions have been rewritten into the thesis voice. The Phase 4
+    "More from Aura" pages (tool-kit, cloud-compute, alpha-infinity-foundation, podcasts,
+    choice-content, affiliates, blog, aura-store, anti-dementia) were NOT part of that pass;
+    review them for the same SaaS-voice issue if/when they get a polish round.
 - **No year-crutch**: never stamp "since 2019" / "2022 vision" provenance into product copy.
   Milestones, not years. The system is for everyone, now.
 - **Present the vision whole. No status labels.** Do NOT tag pages or tools with badges like
@@ -544,3 +546,14 @@ Push. STOP. Checkpoint.
   briefed to cross-check image order against the manifest's DALL-E descriptions and all
   reported doing so. Pushed. **Only Phase 5 (Courses hub) and Phase 6/7 (polish, domain
   readiness) remain.**
+- 2026-07-12: Thesis rewrite pass across all 17 pathway pages, done via 4 parallel
+  subagents (copy-only, briefed with aura-events.html as the corrected-voice exemplar plus
+  a concrete before/after). Every meta description, hero intro and product-marketing
+  feature-block body reframed from "our suite delivers X" to "build your own X, owned,
+  custom, evolving, not big-tech rent, your data stays yours", JRA woven not stamped.
+  Verified: zero em dashes repo-wide, all images resolve, all inline links preserved
+  (world-builder/music/youtube in generative-a-i, gajra/liveaid in blockchain,
+  i-C-infinity in music), git shows modifications only (no structural churn), console clean.
+  Neutral/technical headings left alone; only framing changed. The 17 pathway pages now all
+  speak the thesis. Remaining: Phase 5 (Courses hub), Phase 6/7 (polish, domain readiness),
+  and an optional later pass on the Phase 4 "More from Aura" pages for the same voice.
