@@ -7,8 +7,8 @@
  * Pattern inherited from the right-place-right-time / p4a cinema family.
  *
  * This site is being built and published in phases (see PLAN.md). Some
- * links below point to pages that don't exist yet — that's expected, not a
- * bug: check todo.html for what's still being built.
+ * links below point to pages that don't exist yet: that's expected, not a
+ * bug. Check todo.html for what's still being built.
  */
 (() => {
   document.documentElement.classList.add('js');
@@ -23,7 +23,7 @@
       label: 'Start here',
       blurb: 'The front door, the whole shape of the site, and what only Luke can do next.',
       links: [
-        { href: 'index.html', title: 'Home', note: 'A Bridge to The Infinite — the founder story and the full showcase.' },
+        { href: 'index.html', title: 'Home', note: 'A Bridge to The Infinite: the founder story and the full showcase.' },
         { href: 'pathways/index.html', title: 'The Pathways', note: 'All seventeen tools, filterable, in one place.' },
         { href: 'courses/index.html', title: 'Courses', note: 'Short courses, live streams, and interactive builders.' },
         { href: 'videos.html', title: 'Videos', note: 'Everything on screen.' },
@@ -37,7 +37,7 @@
       label: 'Mind & self',
       blurb: 'Building the digital side of you: your aura, your avatar, your palace, your world.',
       links: [
-        { href: 'aura-builder.html', title: 'Aura Builder', note: 'Mind Uploader — your consciousness, digitised.' },
+        { href: 'aura-builder.html', title: 'Aura Builder', note: 'Mind Uploader: your consciousness, digitised.' },
         { href: 'avatar-creator.html', title: 'Avatar Builder', note: 'Your digital twin.' },
         { href: 'mind-palaces.html', title: 'Mind Palace Builder', note: 'A place to keep what matters.' },
         { href: 'world-builder.html', title: 'World Builder', note: 'Build worlds, planets, galaxies.' }
@@ -50,7 +50,7 @@
       blurb: 'The tools that touch daily life: wellbeing, creation, devices, trust.',
       links: [
         { href: 'aura-wellness.html', title: 'Life Planning & Well Being', note: 'Plan a life, not just a day.' },
-        { href: 'generative-a-i.html', title: 'Generative A.I. Customisation', note: 'Images, video, 3D, music, worlds — made to order.' },
+        { href: 'generative-a-i.html', title: 'Generative A.I. Customisation', note: 'Images, video, 3D, music, worlds, made to order.' },
         { href: 'smart-devices.html', title: 'Smart IoT Devices', note: 'Every device in your life, working together.' },
         { href: 'blockchain.html', title: 'Blockchain', note: 'GAJRA Earth, the Aura Affinity Marketplace, and what trust looks like on-chain.' }
       ]
@@ -61,7 +61,7 @@
       label: 'Events, music & play',
       blurb: 'Gathering people, making things, having fun on purpose.',
       links: [
-        { href: 'aura-events.html', title: 'Events & Event Management', note: 'Craft the unforgettable — every event a masterpiece.' },
+        { href: 'aura-events.html', title: 'Events & Event Management', note: 'Craft the unforgettable: every event a masterpiece.' },
         { href: 'calendar-of-events.html', title: 'Calendar of Events', note: "What's actually coming up." },
         { href: 'music.html', title: 'Music Creation', note: 'Lyrics, music, and music videos, AI-assisted.' },
         { href: 'gamification.html', title: 'Gamification of Life', note: 'GAJRA Earth and the games that make responsibility joyful.' },
@@ -89,7 +89,7 @@
       links: [
         { href: 'alpha-infinity-foundation.html', title: 'Alpha Infinity Foundation', note: 'The guiding force behind the ecosystem.' },
         { href: 'anti-dementia.html', title: 'Anti-Dementia Aura', note: 'Cognitive support, built with heart.' },
-        { href: 'cosmic-nexus.html', title: 'Cosmic Nexus', note: 'A travel club first — building the tribe before the place.' },
+        { href: 'cosmic-nexus.html', title: 'Cosmic Nexus', note: 'A travel club first: building the tribe before the place.' },
         { href: 'tool-kit.html', title: 'Tool Kit', note: 'The working kit behind everything.' },
         { href: 'cloud-compute.html', title: 'Cloud Compute', note: 'Where the compute comes from.' },
         { href: 'podcasts.html', title: 'Podcast Channels', note: 'Listen in.' },

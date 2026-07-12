@@ -1,6 +1,6 @@
 # Aura of Intelligence
 
-**A self-sovereign digital companion — a bridge to your infinite self, built for
+**A self-sovereign digital companion: a bridge to your infinite self, built for
 non-technical people who want to own their data, their attention and their choices.**
 
 The rebuild of [auraofintelligence.com](https://auraofintelligence.com) as a plain,
@@ -9,7 +9,7 @@ upgraded, plus a growing hub of short courses and interactive builders.
 
 ## Status
 
-This site is published and growing in public, on purpose — see [todo.html](todo.html)
+This site is published and growing in public, on purpose; see [todo.html](todo.html)
 for what's shipped and what's next. Nothing here is a finished reveal; it's a working
 site that gets better every week.
 
@@ -18,7 +18,7 @@ site that gets better every week.
 - Plain HTML, one shared `styles.css`, a couple of small scripts. No build step, no
   framework, no third-party requests on load.
 - `assets/site-nav.js` generates the header, footer, breadcrumbs and full-screen index
-  from one data file — add a page in one place and it appears everywhere.
+  from one data file: add a page in one place and it appears everywhere.
 - Every page stays light: self-hosted fonts, lazy-loaded images, and videos that only
   load a real player when clicked.
 - `PLAN.md` is the full build plan, phase by phase. `content/PAGE-INVENTORY.md` maps
@@ -27,7 +27,7 @@ site that gets better every week.
 
 ## Run it locally
 
-No build step — open `index.html` directly, or serve the folder:
+No build step; open `index.html` directly, or serve the folder:
 
 ```bash
 npx serve .
@@ -35,9 +35,9 @@ npx serve .
 
 ## Licence
 
-[LICENCE.md](LICENCE.md) — the Aura of Intelligence Public Source Licence:
+[LICENCE.md](LICENCE.md): the Aura of Intelligence Public Source Licence,
 non-commercial use free, commercial rights reserved.
 
 ---
 
-*A Bridge to The Infinite.* — **Luke Hayes × Claude**, Minjerribah · 2026.
+*A Bridge to The Infinite.* **Luke Hayes × Claude**, Minjerribah · 2026.

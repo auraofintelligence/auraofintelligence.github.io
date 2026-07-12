@@ -4,9 +4,9 @@ Drop any research documents, build plans, scripts or notes for the "aura-events"
 in any format. Sonnet checks this folder before building or revising this page and treats
 these documents as the top-ranking source for its content.
 
-## 2026-07-12 — Luke's brief (supersedes the salvaged stub)
+## 2026-07-12: Luke's brief (supersedes the salvaged stub)
 
-This page is the **intro/pitch page for the Events and Event Management tool** — one of the
+This page is the **intro/pitch page for the Events and Event Management tool**, one of the
 seventeen pathways. It is NOT a calendar (see `calendar-of-events` for that, a separate and
 distinct page). The live site's `aura-events` page was a bare four-city stub; ignore it.
 Build this page from the brief below.
@@ -22,7 +22,7 @@ Build this page from the brief below.
 > calendars, guest management tools, and real-time updates, all while infusing the ambiance
 > of celebration into every digital interaction.
 
-(Note: apply AU spelling when building the page — "organisation", "synchronised" — the
+(Note: apply AU spelling when building the page, "organisation", "synchronised"; the
 brief above is quoted verbatim as supplied.)
 
 Link this page to `calendar-of-events` as the practical, live half of the same tool

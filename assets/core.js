@@ -1,7 +1,7 @@
 /*
  * Aura of Intelligence: shared page behaviour.
  * Reveal-on-scroll and the click-to-load video facade. Both are
- * progressive enhancement — every page is complete without this file.
+ * progressive enhancement: every page is complete without this file.
  */
 (() => {
   /* ---------- Reveal on scroll ---------- */

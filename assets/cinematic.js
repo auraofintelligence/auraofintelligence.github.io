@@ -1,11 +1,11 @@
 /*
  * Aura of Intelligence: the "funky" layer.
- * A lightweight 2D canvas particle ring for the home hero — not WebGL, not
+ * A lightweight 2D canvas particle ring for the home hero: not WebGL, not
  * Three.js, just a few dozen points breathing around a centre. Skipped
  * entirely under prefers-reduced-motion, and every page is complete
  * without this file (progressive enhancement only).
  * More choreography (scroll-linked colour, staggered cards, view
- * transitions) lands in Phase 6 — this file is the seed, not the finish.
+ * transitions) lands in Phase 6; this file is the seed, not the finish.
  */
 (() => {
   const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
