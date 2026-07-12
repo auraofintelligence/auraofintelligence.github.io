@@ -206,6 +206,14 @@ window.AURA_COURSES = [
     generator: false, videos: [], livestream: null
   },
   {
+    id: 'grey-area-commons',
+    title: 'Grey Area Commons',
+    family: 'Life & connection',
+    blurb: 'An adults-only, consent-first, privacy-preserving way into the human questions most places won’t touch: loving connection, mental health, and the grey area between what stays private and what you share. Gentle by design, honest about what it addresses.',
+    links: [ { label: 'Grey Area Commons', href: 'https://auraofintelligence.github.io/grey-area-commons/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
     id: 'become-a-patron',
     title: 'Become a patron or sponsor',
     family: 'Back the work',
