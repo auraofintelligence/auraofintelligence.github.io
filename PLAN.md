@@ -557,3 +557,18 @@ Push. STOP. Checkpoint.
   Neutral/technical headings left alone; only framing changed. The 17 pathway pages now all
   speak the thesis. Remaining: Phase 5 (Courses hub), Phase 6/7 (polish, domain readiness),
   and an optional later pass on the Phase 4 "More from Aura" pages for the same voice.
+- 2026-07-12: **Phase 5 (Courses hub) complete.** Built assets/courses-data.js (6-course
+  registry: markdown-with-ai, straddie-projects, p4a-civic, travel, become-a-patron,
+  long-horizon; each with real verified live repo links, empty video/livestream slots for
+  later), courses/index.html (the hub, renders cards from the registry, explains
+  avatar-videos + human-livestreams framing), and the 6 course pages + course-creation.html
+  (agent-built, 11 stages, thesis-reframed). Centrepiece: assets/course-gen.js, a
+  browser-local Markdown builder (config via window.COURSE_GEN_CONFIG, form to downloadable
+  .md, localStorage autosave, nothing sent anywhere) wired into courses/markdown-with-ai.html
+  as the working self-sovereign demonstration. Verified end-to-end in browser: hub renders 6
+  cards, generator fills/builds/previews/downloads/persists correctly, console clean, zero em
+  dashes repo-wide, all internal links resolve, all live repo URLs confirmed 200. courses/
+  and course-creation no longer 404 in the nav. Empty video slots render nothing (no
+  status-label placeholders) until a real YouTube ID lands in courses-data.js. Remaining:
+  Phase 6 (funk/polish audit), Phase 7 (DOMAIN.md handover), and the optional Phase 4
+  "More from Aura" thesis-voice pass.
