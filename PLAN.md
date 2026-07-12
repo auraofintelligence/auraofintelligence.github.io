@@ -589,3 +589,16 @@ Push. STOP. Checkpoint.
   Verified: zero em dashes, all 14 course ids have pages, all links resolve, care language
   correct, console clean. These local courses are the ones Luke will record short videos
   for. Remaining: Phase 6 polish, Phase 7 DOMAIN.md, optional Phase 4 voice pass.
+- 2026-07-12: Courses catalogue expanded again from Luke's community-ledger picks + 5 more
+  URLs. Added 9 courses (all live-verified, blurbs from repo READMEs): events-engine,
+  clean-energy, tip-loop, capsule-surge, open-data, content-kit, co-op (Local: Minjerribah),
+  community-wealth (National & regional), subterranean/sandworm (Frontiers). The two
+  non-local, question-led explorations (community-wealth, subterranean) use a "What this
+  explores" section-1 heading and honest "not a build underway" framing rather than the
+  "needs community" island framing. Catalogue now 23 courses; hub tracks: Start here 1,
+  Local: Minjerribah 16, National & regional 2, World 1, Back the work 1, Frontiers 2.
+  Deliberately HELD BACK (flagged to Luke, not yet added): Ballow Road Sand & Screen Hub
+  (venue concept), Grey Area Commons, Straddie Vitality Network Builders, Minjerribah
+  Resilience (overlaps disaster-kiosks), Health and Culture / Amity Point (overlaps the
+  Amity grant). Verified: zero em dashes, all 23 ids have pages, all sibling links resolve,
+  community-wealth has no "monetis", console clean.

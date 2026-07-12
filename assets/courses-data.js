@@ -109,6 +109,62 @@ window.AURA_COURSES = [
     generator: false, videos: [], livestream: null
   },
   {
+    id: 'events-engine',
+    title: 'Plan community events',
+    family: 'Local: Minjerribah',
+    blurb: 'The events atlas and Markdown builder I’m making for gatherings on Quandamooka Country, and how to plan your own: public-safe, consent-first, and yours to run.',
+    links: [ { label: 'Quandamooka Country Events Engine', href: 'https://auraofintelligence.github.io/quandamooka-country-events-engine/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'clean-energy',
+    title: 'Community clean energy',
+    family: 'Local: Minjerribah',
+    blurb: 'Clean energy for the island, asked as honest questions: rooftop solar and batteries, sand batteries, green hydrogen, neighbourhood power sharing and bill ledgers. How to work out your own community’s answers.',
+    links: [ { label: 'Straddie Clean Energy Superpower', href: 'https://auraofintelligence.github.io/straddie-clean-energy-superpower/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'tip-loop',
+    title: 'Run a tip loop',
+    family: 'Local: Minjerribah',
+    blurb: 'A lawful tip-loop and local recycling: recover more useful material on the island, build real skills, and keep the value local before it ships away. How to design your own loop where you are.',
+    links: [ { label: 'Straddie Tip Loop Lab', href: 'https://auraofintelligence.github.io/straddie-tip-loop-lab/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'capsule-surge',
+    title: 'A spare room for the future',
+    family: 'Local: Minjerribah',
+    blurb: 'The case for a small, site-neutral space that can flex: beds, civic AI, idle capsule compute, health-surge logistics and co-op value. What I’m proposing for the island, and how you’d make your own.',
+    links: [ { label: 'Straddie Capsule Surge Lab', href: 'https://auraofintelligence.github.io/straddie-capsule-surge-lab/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'open-data',
+    title: 'Open your community’s data',
+    family: 'Local: Minjerribah',
+    blurb: 'Open data and simple simulation for a real local question (a ferry terminal, here): community-readable evidence anyone can check. How to open up and model your own place’s data.',
+    links: [ { label: 'Dunwich (Gumpi) Ferry Terminal Lab', href: 'https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'content-kit',
+    title: 'Make a content kit',
+    family: 'Local: Minjerribah',
+    blurb: 'Portable Markdown tools for camera, audio, lighting and local media planning: your own kit for making content, that you keep and reuse.',
+    links: [ { label: 'Straddie Content Assets Kit', href: 'https://auraofintelligence.github.io/straddie-content-assets-kit/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'co-op',
+    title: 'Start a co-op',
+    family: 'Local: Minjerribah',
+    blurb: 'Co-working, trust-building and shared-asset readiness for a community: how to start a co-op people actually trust, and own it together. What I’m building on the island, and how to build yours.',
+    links: [ { label: 'Ready S.E.T. Co-op Trust Hub', href: 'https://auraofintelligence.github.io/ready-set-co-op-trust-hub/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
     id: 'p4a-civic',
     title: 'P4A: build your own civic tools',
     family: 'National & regional',
@@ -118,6 +174,14 @@ window.AURA_COURSES = [
       { label: 'P4A Oceania', href: 'https://auraofintelligence.github.io/p4a-oceania-cinema/' },
       { label: 'P4A Native Nations', href: 'https://auraofintelligence.github.io/p4a-native-nations-cinema/' }
     ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'community-wealth',
+    title: 'Community wealth & mutuals',
+    family: 'National & regional',
+    blurb: 'Community wealth funds, mutual protection, data sovereignty and Native Title pathways, in plain English. How neighbours can pool risk and wealth so prevention beats premiums: worked out for Moreton Bay, meant for anywhere.',
+    links: [ { label: 'Moreton Bay Community Wealth and Mutuals', href: 'https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/' } ],
     generator: false, videos: [], livestream: null
   },
   {
@@ -146,6 +210,14 @@ window.AURA_COURSES = [
     family: 'Frontiers',
     blurb: 'The furthest-out builds, treated seriously: mineral moonshots and the deep-time frontier. Where the tools you own today grow toward the things that take a lifetime.',
     links: [ { label: 'Mineral Moonshots', href: 'https://auraofintelligence.github.io/mineral-moonshots/' } ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'subterranean',
+    title: 'Underground systems',
+    family: 'Frontiers',
+    blurb: 'Why careful subterranean work might matter: autonomous transport arteries, less road damage, tunnel spoil as a resource, sand batteries and community wealth. The questions asked openly, and how to explore your own.',
+    links: [ { label: 'Sandworm Subterranean Systems', href: 'https://auraofintelligence.github.io/sandworm-subterranean-systems/' } ],
     generator: false, videos: [], livestream: null
   }
 ];
