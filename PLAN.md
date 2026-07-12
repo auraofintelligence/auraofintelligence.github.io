@@ -492,3 +492,13 @@ Push. STOP. Checkpoint.
   (510x448 rendered, capped by the height safety net). Pushed. Mind & Self family (4/4)
   is now complete. Next: Phase 3 batch B (Life Planning & Well Being, Generative A.I.,
   Smart IoT, Blockchain).
+- 2026-07-12: Phase 3 batch B shipped: aura-wellness.html (Life Planning & Well Being),
+  generative-a-i.html, smart-devices.html and blockchain.html. aura-wellness was
+  genuinely thin on the live site (a bare four-item list, no pricing/dates); built an
+  honest, warm page from exactly what's there rather than inventing retreat details.
+  blockchain and generative-a-i both needed image reordering against the manifest's
+  embedded DALL-E descriptions (same lesson as batch A's mind-palaces: never assume
+  gallery-N follows the page's own section order). Verified locally, zero console
+  errors, zero em dashes. Pushed. Life & Living family (4/4) complete; 9 of 17 pathway
+  pages done overall. Next: Phase 3 batch C (Events & Event Management, Calendar of
+  Events, Music Creation, Gamification, Space Weather & Climate).
