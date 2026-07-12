@@ -34,11 +34,20 @@ window.AURA_COURSES = [
     id: 'straddie-projects',
     title: 'Grants & tenders',
     family: 'Local: Minjerribah',
-    blurb: 'How to write grants and tenders that actually land, using a reusable kit you build and own rather than an agency you pay by the hour.',
+    blurb: 'How to win grants (funding programs) and tenders (government buying processes), using a reusable kit you build and own rather than an agency you pay by the hour.',
     links: [
       { label: 'Stradbroke Grants Lab', href: 'https://auraofintelligence.github.io/stradbroke-grants-lab/' },
+      { label: 'Straddie Tenders Lab', href: 'https://auraofintelligence.github.io/straddie-tenders-lab/' },
       { label: 'Amity Outdoor Fitness grant', href: 'https://auraofintelligence.github.io/amity-outdoor-fitness-grant/' }
     ],
+    generator: false, videos: [], livestream: null
+  },
+  {
+    id: 'community-club',
+    title: 'Start a community club',
+    family: 'Local: Minjerribah',
+    blurb: 'A practical playbook for building a community club that’s legal, welcoming and light enough that it doesn’t burn out one person. My worked example is an idea I’m floating for a sand sports club on the island; the method is yours, for any club, anywhere.',
+    links: [ { label: 'Community Club Builder (Sandy Sports example)', href: 'https://auraofintelligence.github.io/community-club-builder-sandy-sports/' } ],
     generator: false, videos: [], livestream: null
   },
   {
