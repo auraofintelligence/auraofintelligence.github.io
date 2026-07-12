@@ -241,7 +241,7 @@ p { margin-top: 0; }
 /* ---------- Sections & cards ---------- */
 .section { padding: clamp(3.5rem, 7vw, 6rem) clamp(1rem, 4vw, 3rem); }
 .section > * { width: min(100%, var(--max)); margin-left: auto; margin-right: auto; }
-.section-heading { display: grid; grid-template-columns: minmax(0, .85fr) minmax(16rem, 1fr); gap: 2rem; align-items: end; margin-bottom: 2rem; }
+.section-heading { display: grid; grid-template-columns: minmax(0, .85fr) minmax(16rem, 1fr); gap: 2rem; align-items: start; margin-bottom: 2rem; }
 .section-heading p:not(.eyebrow) { color: var(--muted); font-size: 1.02rem; }
 .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15.5rem, 1fr)); gap: .9rem; }
 .card { position: relative; display: grid; align-content: start; min-height: 12rem; padding: 1.1rem; border: 1px solid var(--line); border-radius: var(--radius); background: linear-gradient(150deg, rgba(124,77,255,.16), rgba(10,10,22,.72)); box-shadow: 0 20px 60px rgba(0,0,0,.32); text-decoration: none; transition: transform var(--dur-fast) var(--ease-out), border-color var(--dur-fast); }
