@@ -25,7 +25,7 @@ csv=s=x:p=0 <file>`) and update both this row and the page's `<img>` tag.
 
 | filename | page | purpose | width | height | salvaged from | status |
 |---|---|---|---|---|---|---|
-| home--hero-01.webp | home | hero | 1920 | 1109 | https://auraofintelligence.com/wp-content/uploads/2021/06/Aura-of-i-BizFront-Universe.png | salvaged-2024 |
+| home--hero-01.webp | home | hero | 1920 | 1109 | https://auraofintelligence.com/wp-content/uploads/2021/06/Aura-of-i-BizFront-Universe.png | salvaged-2024; RETIRED from the home hero 2026-07-13 (replaced by the live Aura animation in cinematic.js, drawn from Luke's 3ds Max/Blender chakra-tori models); file kept in case it's wanted elsewhere |
 | home--gallery-01.webp | home | gallery | 1200 | 1245 | https://auraofintelligence.com/wp-content/uploads/2021/06/Luke-bearded.jpg | salvaged-2024 |
 | home--gallery-02.webp | home | gallery | 1200 | 957 | https://auraofintelligence.com/wp-content/uploads/2022/06/Aura-Oi-Now-to-the-Space-Age-wider.png | salvaged-2024 |
 | home--gallery-03.webp | home | gallery | 1200 | 1200 | https://auraofintelligence.com/wp-content/uploads/2024/02/DALL·E-2024-02-01-10.51.15-An-ethereal-and-sophisticated-visual-representation-of-an-Aura-Builder-depicting-the-conceptual-process-of-uploading-ones-mind-into-a-digital-form.-.png | salvaged-2024 |

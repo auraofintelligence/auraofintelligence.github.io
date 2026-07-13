@@ -602,3 +602,22 @@ Push. STOP. Checkpoint.
   Resilience (overlaps disaster-kiosks), Health and Culture / Amity Point (overlaps the
   Amity grant). Verified: zero em dashes, all 23 ids have pages, all sibling links resolve,
   community-wealth has no "monetis", console clean.
+- 2026-07-13: Home hero rebuilt as the actual Aura, per Luke's critique (lacklustre, logo
+  behind a "strange haze", animation vanishing and "nothing like the Aura"). Removed the
+  old 2021 logo image from the hero (manifest row marked RETIRED, file kept) and rewrote
+  cinematic.js from scratch: seven nested chakra tori in ROYGBIV (red core to violet outer,
+  matching the Blender Torus1.1-1.7 hierarchy), 24 sectors per ring on the 15-degree rhythm
+  of the 12x24 matrix, a lit band spiralling upward through the rings, gold zero-point core,
+  faint wireframe geosphere. Two real bugs found and fixed along the way: (1) absolutely
+  positioned REPLACED elements (canvas) do not stretch with inset:0, so the hero canvas had
+  been stuck at the 300x150 intrinsic default in the corner the whole time (which is why the
+  old animation "disappeared"); .hero-canvas now gets explicit width/height 100%. (2) The
+  animation only drew inside requestAnimationFrame, which is throttled to zero in background
+  tabs/webviews (and in the preview pane, where RAF never fired); the first frame is now
+  painted synchronously, so the Aura is always present, and reduced-motion gets a calm
+  still instead of a hidden canvas (removed the display:none rule). Verified by pixel
+  sampling: full-size canvas, gold core exact at centre, all seven chakra colours confirmed
+  in ROYGBIV order at their expected radii, ~18% paint coverage, mobile 375px centred with
+  no overflow, console clean. Screenshot tooling in the session pane times out, so
+  verification was pixel-level rather than visual; Luke should eyeball the motion on his
+  own devices. styles.css bumped v=3 to v=4 site-wide per the cache rule.
