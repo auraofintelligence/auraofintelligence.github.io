@@ -4,21 +4,38 @@
  * progressive enhancement: every page is complete without this file.
  */
 (() => {
-  /* ---------- Reveal on scroll ---------- */
-  const reveals = document.querySelectorAll('.reveal');
-  if (reveals.length && 'IntersectionObserver' in window) {
-    const io = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('is-visible');
-          io.unobserve(entry.target);
-        }
-      });
-    }, { threshold: .15, rootMargin: '0px 0px -8% 0px' });
-    reveals.forEach((el) => io.observe(el));
-  } else {
-    reveals.forEach((el) => el.classList.add('is-visible'));
+  /* ---------- Reveal on scroll ----------
+     Deliberately NOT IntersectionObserver. Content visibility must never
+     depend on an observer callback arriving: browsers throttle or delay IO
+     in background tabs, prerendered pages and low-power modes, and a
+     fractional threshold is unreachable for any block taller than the
+     viewport, which left whole sections at opacity 0 forever on a phone.
+     A plain geometry sweep gives the same staggered effect with nothing
+     that can strand content. */
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const pending = new Set(document.querySelectorAll('.reveal'));
+  const show = (el) => el.classList.add('is-visible');
+  if (reduced) {
+    pending.forEach(show);
+    pending.clear();
   }
+  const sweep = () => {
+    if (!pending.size) { return; }
+    /* Only the top edge is tested, so anything scrolled past stays revealed:
+       an anchor jump or a restored scroll position cannot skip a block. */
+    const line = window.innerHeight * 0.92;
+    pending.forEach((el) => {
+      const r = el.getBoundingClientRect();
+      if (r.top < line) { show(el); pending.delete(el); }
+    });
+  };
+  sweep();
+  window.addEventListener('scroll', sweep, { passive: true });
+  window.addEventListener('resize', sweep, { passive: true });
+  window.addEventListener('load', sweep);
+  /* Late-layout safety net (fonts/images shifting geometry after first paint). */
+  setTimeout(sweep, 400);
+  setTimeout(sweep, 1500);
 
   /* ---------- Video facade: never load a live player until clicked ---------- */
   document.querySelectorAll('[data-video-facade]').forEach((facade) => {
