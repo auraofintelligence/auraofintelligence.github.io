@@ -8,7 +8,7 @@ const lensDefinitions = [
   ["Act-out", "Who or what can be physically embodied?"],
   ["Self-deprecation", "How are you the idiot, hypocrite or overconfident one?"],
   ["People in your life", "What behaviour can be mocked without inventing motives?"],
-  ["Crowd work / live danger", "What personal, sexual, social, status or moral question creates immediate tension in this room? Map the first riff, escalation, clapback and return line—not a safe icebreaker."],
+  ["Crowd work / controlled risk", "What personal, sexual, social, status or moral question creates useful tension in this room? Map the risk, first riff, escalation, clapback and return line—not a bland icebreaker."],
   ["Comic flaw", "What stable flaw makes this happen repeatedly?"],
   ["Character", "What exaggerated but truthful stage character lives here?"],
   ["Edgy / forbidden", "What are you not supposed to say here? Build enough shared truth that the room wants you to say it, then turn, reveal or escalate it."],
