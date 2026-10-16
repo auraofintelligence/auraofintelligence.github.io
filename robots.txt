@@ -1,0 +1,16 @@
+# Discovery rules for Aura Genesis Protocol only.
+# Existing copyright, licence and third-party rights remain unchanged:
+# https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/LICENCE.md
+# Crawl directives rely on cooperation; they do not enforce copyright.
+
+User-agent: *
+Allow: /aura-genesis-geode-atlas/
+
+# Search discovery is separate from foundation-model training collection.
+User-agent: OAI-SearchBot
+Allow: /aura-genesis-geode-atlas/
+
+User-agent: GPTBot
+Disallow: /aura-genesis-geode-atlas/
+
+Sitemap: https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml
