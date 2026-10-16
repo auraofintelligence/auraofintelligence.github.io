@@ -1,16 +1,33 @@
-# Discovery rules for Aura Genesis Protocol only.
+# Discovery rules for Aura Genesis Protocol and i C. infinity Music Universe.
 # Existing copyright, licence and third-party rights remain unchanged:
 # https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/LICENCE.md
+# Music catalogue licence:
+# https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/LICENSE
+# Bot-readable music guide:
+# https://auraofintelligence.github.io/i-C-infinity-music-universe/llms.txt
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
 Allow: /aura-genesis-geode-atlas/
+Allow: /i-C-infinity-music-universe/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
 Allow: /aura-genesis-geode-atlas/
+Allow: /i-C-infinity-music-universe/
+
+User-agent: Claude-SearchBot
+Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
 Disallow: /aura-genesis-geode-atlas/
+Disallow: /i-C-infinity-music-universe/
+
+User-agent: ClaudeBot
+Disallow: /i-C-infinity-music-universe/
+
+User-agent: Google-Extended
+Disallow: /i-C-infinity-music-universe/
 
 Sitemap: https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/i-C-infinity-music-universe/sitemap.xml
