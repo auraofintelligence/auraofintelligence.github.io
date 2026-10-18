@@ -1,4 +1,9 @@
-# Discovery rules for Aura Genesis Protocol and i C. infinity Music Universe.
+# Project directory and existing licence links: https://auraofintelligence.github.io/find.html
+# Search discovery grants no additional reuse, commercial or AI-training rights.
+# Each project's existing licence and third-party terms continue to apply.
+# Only this host-root file governs crawling of the shared GitHub Pages hostname.
+
+# Search discovery for the Aura of Intelligence project catalogue.
 # Existing copyright, licence and third-party rights remain unchanged:
 # https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/LICENCE.md
 # Music catalogue licence:
@@ -31,3 +36,21 @@ Disallow: /i-C-infinity-music-universe/
 
 Sitemap: https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/i-C-infinity-music-universe/sitemap.xml
+
+Sitemap: https://auraofintelligence.github.io/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/500-Queens-VC-2026/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/C-Hour-introduction/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/GAJRA-earth-infinity/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/UNGA81-Luke-Hayes/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/global-group-marriages/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/grain-by-grain-documentary/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/mutual-futures/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/virtual-solar-swarm/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/sitemap.xml
