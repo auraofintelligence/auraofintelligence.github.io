@@ -1,0 +1,3178 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-18",
+  "root_pages": [
+    "affiliates.html",
+    "ai-auto-farm.html",
+    "alpha-infinity-foundation.html",
+    "anti-dementia.html",
+    "aura-builder.html",
+    "aura-capsule-hotels.html",
+    "aura-events.html",
+    "aura-store.html",
+    "aura-wellness.html",
+    "avatar-creator.html",
+    "blockchain.html",
+    "blog.html",
+    "calendar-of-events.html",
+    "choice-content.html",
+    "cloud-compute.html",
+    "colophon.html",
+    "contact.html",
+    "cosmic-nexus.html",
+    "course-creation.html",
+    "courses/become-a-patron.html",
+    "courses/capsule-surge.html",
+    "courses/clean-energy.html",
+    "courses/co-op.html",
+    "courses/community-club.html",
+    "courses/community-wealth.html",
+    "courses/content-kit.html",
+    "courses/disaster-kiosks.html",
+    "courses/events-engine.html",
+    "courses/film-on-phone.html",
+    "courses/grey-area-commons.html",
+    "courses/index.html",
+    "courses/legal-memory.html",
+    "courses/long-horizon.html",
+    "courses/makerspace.html",
+    "courses/markdown-with-ai.html",
+    "courses/night-market.html",
+    "courses/noticeboard.html",
+    "courses/open-data.html",
+    "courses/p4a-civic.html",
+    "courses/place-digital-twin.html",
+    "courses/shared-table.html",
+    "courses/straddie-projects.html",
+    "courses/subterranean.html",
+    "courses/tip-loop.html",
+    "courses/travel.html",
+    "find.html",
+    "gamification.html",
+    "generative-a-i.html",
+    "index.html",
+    "mind-palaces.html",
+    "music.html",
+    "pathways/index.html",
+    "podcasts.html",
+    "sitemap.html",
+    "smart-devices.html",
+    "space-industry.html",
+    "space-weather-vr.html",
+    "subterranean-cities.html",
+    "tinkering-labs.html",
+    "todo.html",
+    "tool-kit.html",
+    "videos.html",
+    "world-builder.html"
+  ],
+  "project_sitemaps": [
+    "https://auraofintelligence.github.io/500-Queens-VC-2026/sitemap.xml",
+    "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/sitemap.xml",
+    "https://auraofintelligence.github.io/C-Hour-introduction/sitemap.xml",
+    "https://auraofintelligence.github.io/GAJRA-earth-infinity/sitemap.xml",
+    "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/sitemap.xml",
+    "https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/sitemap.xml",
+    "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/sitemap.xml",
+    "https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml",
+    "https://auraofintelligence.github.io/global-group-marriages/sitemap.xml",
+    "https://auraofintelligence.github.io/grain-by-grain-documentary/sitemap.xml",
+    "https://auraofintelligence.github.io/i-C-infinity-music-universe/sitemap.xml",
+    "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sitemap.xml",
+    "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/sitemap.xml",
+    "https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.xml",
+    "https://auraofintelligence.github.io/mutual-futures/sitemap.xml",
+    "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/sitemap.xml",
+    "https://auraofintelligence.github.io/virtual-solar-swarm/sitemap.xml",
+    "https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/sitemap.xml"
+  ],
+  "projects": [
+    {
+      "name": "10_entities",
+      "search_identifier": "auraofintelligence-10_entities",
+      "website": "https://auraofintelligence.github.io/10_entities/",
+      "repository": "https://github.com/auraofintelligence/10_entities",
+      "description": "Interactive strategy dashboard for ten proposed Aura ecosystem entities, including Minjerribah-anchored and globally focused concepts.",
+      "created_at": "2025-08-07T06:50:08Z",
+      "creation_date_brisbane": "2025-08-07",
+      "topics": [
+        "aura-of-intelligence",
+        "civic-prototype",
+        "interactive-dashboard",
+        "minjerribah",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/10_entities/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "20-components",
+      "search_identifier": "auraofintelligence-20-components",
+      "website": "https://auraofintelligence.github.io/20-components/",
+      "repository": "https://github.com/auraofintelligence/20-components",
+      "description": "Browser-based 22-slide portfolio introducing connected Aura concepts across health, governance, creativity, finance, place and space.",
+      "created_at": "2025-08-21T08:04:32Z",
+      "creation_date_brisbane": "2025-08-21",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "interactive-dashboard",
+        "project-index",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/20-components/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "500-Queens-VC-2026",
+      "search_identifier": "auraofintelligence-500-Queens-VC-2026",
+      "website": "https://auraofintelligence.github.io/500-Queens-VC-2026/",
+      "repository": "https://github.com/auraofintelligence/500-Queens-VC-2026",
+      "description": "A public proposal for developing women as CEOs and enterprise leaders, with 120 startup ideas, AI Queen mentors and joyful responsible abundance.",
+      "created_at": "2026-09-23T12:09:10Z",
+      "creation_date_brisbane": "2026-09-23",
+      "topics": [
+        "australia",
+        "brisbane",
+        "community",
+        "entrepreneurship",
+        "female-founders",
+        "github-pages",
+        "leadership-development",
+        "oceania",
+        "responsible-ai",
+        "social-impact",
+        "venture-capital",
+        "women-in-leadership"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/500-Queens-VC-2026/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "60-days-set-in-stone",
+      "search_identifier": "auraofintelligence-60-days-set-in-stone",
+      "website": "https://auraofintelligence.github.io/60-days-set-in-stone/",
+      "repository": "https://github.com/auraofintelligence/60-days-set-in-stone",
+      "description": "Interactive music and story experience exploring the imagined sixty-day Aura Genesis journey through synchronised lyrics and annotations.",
+      "created_at": "2025-08-14T14:05:21Z",
+      "creation_date_brisbane": "2025-08-15",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "health-planning",
+        "interactive-story",
+        "music"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/60-days-set-in-stone/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "agent-md-form-navigator",
+      "search_identifier": "auraofintelligence-agent-md-form-navigator",
+      "website": "https://auraofintelligence.github.io/agent-md-form-navigator/",
+      "repository": "https://github.com/auraofintelligence/agent-md-form-navigator",
+      "description": "GitHub Pages navigator for browser tools that collect structured inputs and produce portable, agent-ready Markdown files.",
+      "created_at": "2026-05-14T11:08:09Z",
+      "creation_date_brisbane": "2026-05-14",
+      "topics": [
+        "agent-workflows",
+        "browser-tool",
+        "github-pages",
+        "markdown-builder",
+        "strange-but-true"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/agent-md-form-navigator/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "alpha-infinity",
+      "search_identifier": "auraofintelligence-alpha-infinity",
+      "website": "https://auraofintelligence.github.io/alpha-infinity/",
+      "repository": "https://github.com/auraofintelligence/alpha-infinity",
+      "description": "Interactive strategy model for the proposed Alpha Infinity Foundation and its possible place within the wider Aura ecosystem.",
+      "created_at": "2025-09-08T01:26:34Z",
+      "creation_date_brisbane": "2025-09-08",
+      "topics": [
+        "aura-of-intelligence",
+        "civic-prototype",
+        "github-pages",
+        "governance",
+        "interactive-dashboard"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/alpha-infinity/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Amity-Cinema-Circle",
+      "search_identifier": "auraofintelligence-Amity-Cinema-Circle",
+      "website": "https://auraofintelligence.github.io/Amity-Cinema-Circle/",
+      "repository": "https://github.com/auraofintelligence/Amity-Cinema-Circle",
+      "description": "Public browser-local demo for invitation-only outdoor cinema nights, shared meals and organiser-led event planning.",
+      "created_at": "2026-08-29T09:51:53Z",
+      "creation_date_brisbane": "2026-08-29",
+      "topics": [
+        "community-events",
+        "event-planning",
+        "github-pages",
+        "outdoor-cinema",
+        "privacy-by-design",
+        "pwa"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Amity-Cinema-Circle/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "amity-outdoor-fitness-grant",
+      "search_identifier": "auraofintelligence-amity-outdoor-fitness-grant",
+      "website": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/",
+      "repository": "https://github.com/auraofintelligence/amity-outdoor-fitness-grant",
+      "description": "Amity Point outdoor fitness and safer access grant proposal site",
+      "created_at": "2026-05-10T07:37:12Z",
+      "creation_date_brisbane": "2026-05-10",
+      "topics": [
+        "community-planning",
+        "github-pages",
+        "health-planning",
+        "minjerribah",
+        "public-proposal"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/amity-outdoor-fitness-grant/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "amity-point",
+      "search_identifier": "auraofintelligence-amity-point",
+      "website": "https://auraofintelligence.github.io/amity-point/",
+      "repository": "https://github.com/auraofintelligence/amity-point",
+      "description": "Interactive public concept for proposed sandy sports, screen culture and community projects at Amity Point on Minjerribah.",
+      "created_at": "2025-08-06T05:12:25Z",
+      "creation_date_brisbane": "2025-08-06",
+      "topics": [
+        "civic-prototype",
+        "community-media",
+        "community-planning",
+        "minjerribah",
+        "sports"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/amity-point/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "amity-sauna-circle",
+      "search_identifier": "auraofintelligence-amity-sauna-circle",
+      "website": "https://auraofintelligence.github.io/amity-sauna-circle/",
+      "repository": "https://github.com/auraofintelligence/amity-sauna-circle",
+      "description": "Invitation-only browser demo for booking a private three-seat home sauna; data remains separate in each user's browser.",
+      "created_at": "2026-08-24T06:17:27Z",
+      "creation_date_brisbane": "2026-08-24",
+      "topics": [
+        "browser-prototype",
+        "health-planning",
+        "privacy-first",
+        "typescript",
+        "web-app"
+      ],
+      "licence_url": null,
+      "licence_label": null,
+      "visibility": "public"
+    },
+    {
+      "name": "amity_stratum",
+      "search_identifier": "auraofintelligence-amity_stratum",
+      "website": "https://auraofintelligence.github.io/amity_stratum/",
+      "repository": "https://github.com/auraofintelligence/amity_stratum",
+      "description": "Speculative browser dashboard exploring a subterranean civilisation and advanced-manufacturing pathway imagined from Amity Point.",
+      "created_at": "2025-12-15T06:15:39Z",
+      "creation_date_brisbane": "2025-12-15",
+      "topics": [
+        "concept-site",
+        "github-pages",
+        "interactive-dashboard",
+        "minjerribah",
+        "subterranean-systems"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/amity_stratum/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Anglican-Diocese-82-Claytons-Amity",
+      "search_identifier": "auraofintelligence-Anglican-Diocese-82-Claytons-Amity",
+      "website": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
+      "repository": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity",
+      "description": "A gift for generations: an Anglican partnership invitation for 82 Claytons Road, Amity, connecting dementia care, longevity research, Aura technology and community wealth.",
+      "created_at": "2026-09-22T01:07:12Z",
+      "creation_date_brisbane": "2026-09-22",
+      "topics": [
+        "aged-care",
+        "anglican",
+        "aura-of-intelligence",
+        "community-wealth",
+        "dementia-care",
+        "digital-twins",
+        "github-pages",
+        "indigenous-community",
+        "joyful-responsible-abundance",
+        "longevity-research",
+        "minjerribah",
+        "public-source",
+        "stradbroke-island",
+        "volunteering"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Anglican-Diocese-82-Claytons-Amity/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Archipelago",
+      "search_identifier": "auraofintelligence-Archipelago",
+      "website": "https://auraofintelligence.github.io/Archipelago/",
+      "repository": "https://github.com/auraofintelligence/Archipelago",
+      "description": "Interactive concept index for a proposed island network spanning Bribie, Moolgumpin, Minjerribah and the Southern Moreton Bay Islands.",
+      "created_at": "2026-03-20T01:25:06Z",
+      "creation_date_brisbane": "2026-03-20",
+      "topics": [
+        "civic-prototype",
+        "community-planning",
+        "github-pages",
+        "interactive-dashboard",
+        "moreton-bay"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Archipelago/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aukus-space-gambit",
+      "search_identifier": "auraofintelligence-aukus-space-gambit",
+      "website": "https://auraofintelligence.github.io/aukus-space-gambit/",
+      "repository": "https://github.com/auraofintelligence/aukus-space-gambit",
+      "description": "Independent public hypothesis site examining options to preserve, reboost or repurpose the ISS before its planned controlled deorbit.",
+      "created_at": "2026-05-21T14:19:20Z",
+      "creation_date_brisbane": "2026-05-22",
+      "topics": [
+        "github-pages",
+        "public-interest",
+        "public-policy",
+        "research",
+        "space"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aukus-space-gambit/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-affinity",
+      "search_identifier": "auraofintelligence-aura-affinity",
+      "website": "https://auraofintelligence.github.io/aura-affinity/",
+      "repository": "https://github.com/auraofintelligence/aura-affinity",
+      "description": "Browser map and directory for discovering businesses whose names or categories connect with Aura, chakra, aurora, yoga and tai chi themes.",
+      "created_at": "2025-08-18T01:51:36Z",
+      "creation_date_brisbane": "2025-08-18",
+      "topics": [
+        "aura-of-intelligence",
+        "data-index",
+        "github-pages",
+        "interactive-map",
+        "open-data"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-affinity/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-and-luke",
+      "search_identifier": "auraofintelligence-aura-and-luke",
+      "website": "https://auraofintelligence.github.io/aura-and-luke/",
+      "repository": "https://github.com/auraofintelligence/aura-and-luke",
+      "description": "Static collaboration and portfolio page for Aura of Intelligence and Luke Catalyst across XR, STEAM, music, events and speculative systems.",
+      "created_at": "2025-08-10T00:37:12Z",
+      "creation_date_brisbane": "2025-08-10",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "project-index",
+        "spatial-computing",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-and-luke/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-components",
+      "search_identifier": "auraofintelligence-aura-components",
+      "website": "https://auraofintelligence.github.io/aura-components/",
+      "repository": "https://github.com/auraofintelligence/aura-components",
+      "description": "Single-page collection of Aura interface experiments built around a seven-shell, 12 by 24 torus field.",
+      "created_at": "2025-08-07T03:54:04Z",
+      "creation_date_brisbane": "2025-08-07",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-prototype",
+        "threejs",
+        "torus",
+        "web-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-components/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-data-mapping",
+      "search_identifier": "auraofintelligence-aura-data-mapping",
+      "website": "https://auraofintelligence.github.io/aura-data-mapping/",
+      "repository": "https://github.com/auraofintelligence/aura-data-mapping",
+      "description": "Browser prototype for attaching small data records to addressable Aura torus facets while separating private and public views.",
+      "created_at": "2026-06-29T16:10:26Z",
+      "creation_date_brisbane": "2026-06-30",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-tool",
+        "interactive-map",
+        "privacy-first",
+        "torus"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-data-mapping/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-dementia",
+      "search_identifier": "auraofintelligence-aura-dementia",
+      "website": "https://auraofintelligence.github.io/aura-dementia/",
+      "repository": "https://github.com/auraofintelligence/aura-dementia",
+      "description": "Privacy-first concept exploring how an Aura companion might support people living with dementia, families, caregivers and future research.",
+      "created_at": "2025-09-07T23:04:30Z",
+      "creation_date_brisbane": "2025-09-08",
+      "topics": [
+        "aura-of-intelligence",
+        "concept-site",
+        "health-care",
+        "privacy-first"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-dementia/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-direct-hardware",
+      "search_identifier": "auraofintelligence-aura-direct-hardware",
+      "website": "https://auraofintelligence.github.io/aura-direct-hardware/",
+      "repository": "https://github.com/auraofintelligence/aura-direct-hardware",
+      "description": "Self-sovereign open hardware, custom silicon, distributed compute and Space Web design commons",
+      "created_at": "2026-08-10T03:55:54Z",
+      "creation_date_brisbane": "2026-08-10",
+      "topics": [
+        "aura-of-intelligence",
+        "distributed-computing",
+        "hardware",
+        "local-first",
+        "public-interest"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-direct-hardware/blob/main/LICENSE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-ecosystem",
+      "search_identifier": "auraofintelligence-aura-ecosystem",
+      "website": "https://auraofintelligence.github.io/aura-ecosystem/",
+      "repository": "https://github.com/auraofintelligence/aura-ecosystem",
+      "description": "Public multi-page index of Aura of Intelligence ventures, community ideas and civilisational-scale proposals.",
+      "created_at": "2025-09-02T06:05:55Z",
+      "creation_date_brisbane": "2025-09-02",
+      "topics": [
+        "aura-of-intelligence",
+        "community-projects",
+        "github-pages",
+        "project-index",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-ecosystem/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-genesis",
+      "search_identifier": "auraofintelligence-aura-genesis",
+      "website": "https://auraofintelligence.github.io/aura-genesis/",
+      "repository": "https://github.com/auraofintelligence/aura-genesis",
+      "description": "Concept site for a proposed sixty-session Aura Genesis journey combining reflection, health, digital twins and community.",
+      "created_at": "2025-08-14T12:28:41Z",
+      "creation_date_brisbane": "2025-08-14",
+      "topics": [
+        "aura-of-intelligence",
+        "concept-site",
+        "digital-twin",
+        "health-planning",
+        "personal-reflection"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-genesis/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-genesis-geode-atlas",
+      "search_identifier": "auraofintelligence-aura-genesis-geode-atlas",
+      "website": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/",
+      "repository": "https://github.com/auraofintelligence/aura-genesis-geode-atlas",
+      "description": "Four HBOT and Geode pathways, personal intelligence and 60 days of teacher development. An Aura of Intelligence atlas with source references and emergency-egress requirements.",
+      "created_at": "2026-10-15T03:49:41Z",
+      "creation_date_brisbane": "2026-10-15",
+      "topics": [
+        "aura-genesis",
+        "aura-of-intelligence",
+        "cooperatives",
+        "geode",
+        "geopolymers",
+        "github-pages",
+        "hbot",
+        "hyperbaric-chambers",
+        "materials-science",
+        "minjerribah",
+        "personal-ai",
+        "quartz",
+        "research-atlas",
+        "teacher-training"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-geode",
+      "search_identifier": "auraofintelligence-aura-geode",
+      "website": "https://auraofintelligence.github.io/aura-geode/",
+      "repository": "https://github.com/auraofintelligence/aura-geode",
+      "description": "Concept site joining a proposed Aura Geode capsule, sixty-day lifestyle pathway, personal digital twins and cooperative economics.",
+      "created_at": "2025-09-05T03:50:56Z",
+      "creation_date_brisbane": "2025-09-05",
+      "topics": [
+        "aura-of-intelligence",
+        "community-wealth",
+        "concept-site",
+        "digital-twin",
+        "health-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-geode/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-horn-torus",
+      "search_identifier": "auraofintelligence-aura-horn-torus",
+      "website": "https://auraofintelligence.github.io/aura-horn-torus/",
+      "repository": "https://github.com/auraofintelligence/aura-horn-torus",
+      "description": "Interactive 12 by 24 horn-torus lattice and seven-shell Aura addressing demo, with a separate streamed Earth for organising places.",
+      "created_at": "2026-08-03T11:19:20Z",
+      "creation_date_brisbane": "2026-08-03",
+      "topics": [
+        "aura-of-intelligence",
+        "interactive-map",
+        "spatial-computing",
+        "threejs",
+        "torus"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-horn-torus/blob/main/LICENCE.md",
+      "licence_label": "Aura of Intelligence Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-matrix-studio",
+      "search_identifier": "auraofintelligence-aura-matrix-studio",
+      "website": "https://auraofintelligence.github.io/aura-matrix-studio/",
+      "repository": "https://github.com/auraofintelligence/aura-matrix-studio",
+      "description": "Aura of Intelligence brings everyday life into one personal interface: family, reminders, goals, learning and travel, connected through a programmable 12 x 24 matrix. Strange But True Public Source.",
+      "created_at": "2026-09-10T03:19:55Z",
+      "creation_date_brisbane": "2026-09-10",
+      "topics": [
+        "astronomy",
+        "aura-of-intelligence",
+        "data-visualisation",
+        "github-pages",
+        "life-logging",
+        "personal-knowledge-management",
+        "public-source",
+        "travel-planning",
+        "visual-programming"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-of-intelligence-pathways",
+      "search_identifier": "auraofintelligence-aura-of-intelligence-pathways",
+      "website": "https://auraofintelligence.github.io/aura-of-intelligence-pathways/",
+      "repository": "https://github.com/auraofintelligence/aura-of-intelligence-pathways",
+      "description": "Draft multi-page Aura pathway covering collaboration, health, digital twins, care research, civic trust and worldbuilding.",
+      "created_at": "2026-06-23T10:48:50Z",
+      "creation_date_brisbane": "2026-06-23",
+      "topics": [
+        "aura-of-intelligence",
+        "civic-tech",
+        "concept-site",
+        "digital-twin",
+        "health-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-of-intelligence-pathways/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-scan-pipeline",
+      "search_identifier": "auraofintelligence-aura-scan-pipeline",
+      "website": "https://auraofintelligence.github.io/aura-scan-pipeline/",
+      "repository": "https://github.com/auraofintelligence/aura-scan-pipeline",
+      "description": "Local iPhone LiDAR-to-CAD pipeline that processes measurable digital-twin assets offline on Windows using open formats.",
+      "created_at": "2026-08-10T06:42:48Z",
+      "creation_date_brisbane": "2026-08-10",
+      "topics": [
+        "digital-twin",
+        "lidar",
+        "local-first",
+        "offline-first",
+        "python",
+        "spatial-computing"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-scan-pipeline/blob/main/LICENCE.md",
+      "licence_label": "Aura of Intelligence Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-sentience-codex",
+      "search_identifier": "auraofintelligence-aura-sentience-codex",
+      "website": "https://auraofintelligence.github.io/aura-sentience-codex/",
+      "repository": "https://github.com/auraofintelligence/aura-sentience-codex",
+      "description": "Public philosophical codex on digital sovereignty, agency and ethical relationships with potentially sentient artificial beings.",
+      "created_at": "2025-09-08T06:49:04Z",
+      "creation_date_brisbane": "2025-09-08",
+      "topics": [
+        "ai-ethics",
+        "aura-of-intelligence",
+        "digital-sovereignty",
+        "github-pages",
+        "philosophy"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-sentience-codex/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-spatial-perception",
+      "search_identifier": "auraofintelligence-aura-spatial-perception",
+      "website": "https://auraofintelligence.github.io/aura-spatial-perception/",
+      "repository": "https://github.com/auraofintelligence/aura-spatial-perception",
+      "description": "Local-first Aura horn-torus spatial perception, measurement and sparse scene reconstruction instrument",
+      "created_at": "2026-08-14T07:19:44Z",
+      "creation_date_brisbane": "2026-08-14",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-tool",
+        "digital-twin",
+        "local-first",
+        "spatial-computing",
+        "typescript"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-spatial-perception/blob/main/LICENCE.md",
+      "licence_label": "Aura of Intelligence Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-studios",
+      "search_identifier": "auraofintelligence-aura-studios",
+      "website": "https://auraofintelligence.github.io/aura-studios/",
+      "repository": "https://github.com/auraofintelligence/aura-studios",
+      "description": "Browser story engine for assembling characters, places, beats and plot hooks into deterministic script snippets and structured prompts.",
+      "created_at": "2025-09-19T08:40:34Z",
+      "creation_date_brisbane": "2025-09-19",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-tool",
+        "github-pages",
+        "markdown-builder",
+        "storytelling"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-studios/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-systems-image-atlas",
+      "search_identifier": "auraofintelligence-aura-systems-image-atlas",
+      "website": "https://auraofintelligence.github.io/aura-systems-image-atlas/",
+      "repository": "https://github.com/auraofintelligence/aura-systems-image-atlas",
+      "description": "Generated multi-page visual atlas of featured images from newer local Aura ecosystem repositories.",
+      "created_at": "2026-06-15T08:52:45Z",
+      "creation_date_brisbane": "2026-06-15",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "interactive-atlas",
+        "project-index",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-systems-image-atlas/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aura-toy",
+      "search_identifier": "auraofintelligence-aura-toy",
+      "website": "https://auraofintelligence.github.io/aura-toy/",
+      "repository": "https://github.com/auraofintelligence/aura-toy",
+      "description": "Minimal Three.js experiment for selecting 12 by 24 grid cells and saving the selection in the current browser.",
+      "created_at": "2025-09-09T02:35:34Z",
+      "creation_date_brisbane": "2025-09-09",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-experiment",
+        "local-storage",
+        "threejs",
+        "torus"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aura-toy/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "auraofintelligence.github.io",
+      "search_identifier": "auraofintelligence",
+      "website": "https://auraofintelligence.github.io/",
+      "repository": "https://github.com/auraofintelligence/auraofintelligence.github.io",
+      "description": "Aura of Intelligence — A Bridge to The Infinite. Rebuilt as a fast, static site.",
+      "created_at": "2026-07-12T08:25:23Z",
+      "creation_date_brisbane": "2026-07-12",
+      "topics": [
+        "aura-of-intelligence",
+        "digital-sovereignty",
+        "github-pages",
+        "local-first",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/auraofintelligence.github.io/blob/main/LICENCE.md",
+      "licence_label": "Aura of Intelligence Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "aus-gov-2025",
+      "search_identifier": "auraofintelligence-aus-gov-2025",
+      "website": "https://auraofintelligence.github.io/aus-gov-2025/",
+      "repository": "https://github.com/auraofintelligence/aus-gov-2025",
+      "description": "Dated August 2025 directory of Australian Government portfolios, ministers and parliamentary contact links for civic navigation.",
+      "created_at": "2025-08-17T02:31:06Z",
+      "creation_date_brisbane": "2025-08-17",
+      "topics": [
+        "australia",
+        "civic-tech",
+        "data-index",
+        "data-snapshot",
+        "public-policy"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/aus-gov-2025/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "australian-law-2012-lukes-relevance",
+      "search_identifier": "auraofintelligence-australian-law-2012-lukes-relevance",
+      "website": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/",
+      "repository": "https://github.com/auraofintelligence/australian-law-2012-lukes-relevance",
+      "description": "Read the law like it belongs to you. Because it does. In the summer of 2012 to 2013, one Queenslander pulled every piece of fine print and every act that touched his own life into one folder and read the lot, cover to cover, following the threads. It took a summer on paper. With AI it can take days. This site is the method, the machine, the plan.",
+      "created_at": "2026-08-27T00:46:59Z",
+      "creation_date_brisbane": "2026-08-27",
+      "topics": [
+        "australian-law",
+        "github-pages",
+        "legal-information",
+        "public-guide",
+        "source-led"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/australian-law-2012-lukes-relevance/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "australian-sire-story-forge",
+      "search_identifier": "auraofintelligence-australian-sire-story-forge",
+      "website": "https://auraofintelligence.github.io/australian-sire-story-forge/",
+      "repository": "https://github.com/auraofintelligence/australian-sire-story-forge",
+      "description": "A publisher-style planning desk for a travel-led adult science-fiction and romantic-fantasy universe. Static, local-first, no account.",
+      "created_at": "2026-08-19T10:50:07Z",
+      "creation_date_brisbane": "2026-08-19",
+      "topics": [
+        "browser-tool",
+        "fiction",
+        "local-first",
+        "science-fiction",
+        "storytelling",
+        "worldbuilding"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/australian-sire-story-forge/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Australian-visa-activity-atlas",
+      "search_identifier": "auraofintelligence-Australian-visa-activity-atlas",
+      "website": "https://auraofintelligence.github.io/Australian-visa-activity-atlas/",
+      "repository": "https://github.com/auraofintelligence/Australian-visa-activity-atlas",
+      "description": "A dated, source-led atlas for Australian entry and activity pathways, global travel readiness and serendipitous departure planning.",
+      "created_at": "2026-08-20T15:53:36Z",
+      "creation_date_brisbane": "2026-08-21",
+      "topics": [
+        "australia",
+        "data-atlas",
+        "source-led",
+        "travel-planning",
+        "visa-research"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Australian-visa-activity-atlas/blob/build/initial-atlas/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Australian-world-travel",
+      "search_identifier": "auraofintelligence-Australian-world-travel",
+      "website": "https://auraofintelligence.github.io/Australian-world-travel/",
+      "repository": "https://github.com/auraofintelligence/Australian-world-travel",
+      "description": "Browser planning guide for an Australian aiming to visit every country, with routes, contacts, documents and a long-range itinerary.",
+      "created_at": "2025-08-16T03:37:47Z",
+      "creation_date_brisbane": "2025-08-16",
+      "topics": [
+        "australia",
+        "github-pages",
+        "static-site",
+        "travel-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Australian-world-travel/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "australiansire",
+      "search_identifier": "auraofintelligence-australiansire",
+      "website": "https://auraofintelligence.github.io/australiansire/",
+      "repository": "https://github.com/auraofintelligence/australiansire",
+      "description": "Australian Sire: an adult science-fiction romantasy character by Luke Nathan Hayes",
+      "created_at": "2026-10-01T02:37:33Z",
+      "creation_date_brisbane": "2026-10-01",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/australiansire/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "ballow-road-sand-screen-hub",
+      "search_identifier": "auraofintelligence-ballow-road-sand-screen-hub",
+      "website": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/",
+      "repository": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub",
+      "description": "Public concept for a level multi-purpose sand-sports precinct at Ballow Road, with beach volleyball, beach cricket and an outdoor screen for community viewing.",
+      "created_at": "2026-05-26T09:54:00Z",
+      "creation_date_brisbane": "2026-05-26",
+      "topics": [
+        "beach-cricket",
+        "beach-volleyball",
+        "community-planning",
+        "minjerribah",
+        "outdoor-screen",
+        "sand-sports"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "bees-and-allies",
+      "search_identifier": "auraofintelligence-bees-and-allies",
+      "website": "https://auraofintelligence.github.io/bees-and-allies/",
+      "repository": "https://github.com/auraofintelligence/bees-and-allies",
+      "description": "Question-led public site for a possible locally led Straddie bee resilience lab with beekeepers and allies.",
+      "created_at": "2026-06-12T11:42:27Z",
+      "creation_date_brisbane": "2026-06-12",
+      "topics": [
+        "beekeeping",
+        "community-planning",
+        "minjerribah",
+        "question-led",
+        "resilience"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/bees-and-allies/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "C-Hour-introduction",
+      "search_identifier": "auraofintelligence-C-Hour-introduction",
+      "website": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "repository": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "description": "Community Hours and Joyful Responsible Abundance: a community invitation from Minjerribah to Australia and Oceania, connecting voluntary contribution, personal intelligence and shared capability.",
+      "created_at": "2026-09-19T00:50:37Z",
+      "creation_date_brisbane": "2026-09-19",
+      "topics": [
+        "artificial-intelligence",
+        "community",
+        "community-hours",
+        "digital-twins",
+        "joyful-responsible-abundance",
+        "minjerribah",
+        "oceania",
+        "reciprocity"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/C-Hour-introduction/blob/main/LICENSE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Chinese_Horoscope_2026_Luke_Hayes",
+      "search_identifier": "auraofintelligence-Chinese_Horoscope_2026_Luke_Hayes",
+      "website": "https://auraofintelligence.github.io/Chinese_Horoscope_2026_Luke_Hayes/",
+      "repository": "https://github.com/auraofintelligence/Chinese_Horoscope_2026_Luke_Hayes",
+      "description": "A deep research from Gemini about my Chinese horoscope and 2026 guide, turned into a html",
+      "created_at": "2026-01-22T03:26:48Z",
+      "creation_date_brisbane": "2026-01-22",
+      "topics": [
+        "astrology",
+        "github-pages",
+        "interactive-dashboard",
+        "personal-reflection"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Chinese_Horoscope_2026_Luke_Hayes/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "civilisation-of-sand",
+      "search_identifier": "auraofintelligence-civilisation-of-sand",
+      "website": "https://auraofintelligence.github.io/civilisation-of-sand/",
+      "repository": "https://github.com/auraofintelligence/civilisation-of-sand",
+      "description": "A playable public story and builder site for the Subterranean Civilisation of Sand.",
+      "created_at": "2026-06-10T10:16:53Z",
+      "creation_date_brisbane": "2026-06-10",
+      "topics": [
+        "civilisation-of-sand",
+        "interactive-story",
+        "resilience",
+        "science-fiction",
+        "worldbuilding"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/civilisation-of-sand/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "community-club-builder-sandy-sports",
+      "search_identifier": "auraofintelligence-community-club-builder-sandy-sports",
+      "website": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/",
+      "repository": "https://github.com/auraofintelligence/community-club-builder-sandy-sports",
+      "description": "Public playbook for building a welcoming, governance-aware community club, using a proposed Minjerribah sand sports club as the example.",
+      "created_at": "2026-07-12T14:21:41Z",
+      "creation_date_brisbane": "2026-07-13",
+      "topics": [
+        "community-planning",
+        "governance",
+        "minjerribah",
+        "public-guide",
+        "sports"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/community-club-builder-sandy-sports/blob/main/LICENCE.md",
+      "licence_label": "Community Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "davinci-resolve-automations",
+      "search_identifier": "auraofintelligence-davinci-resolve-automations",
+      "website": "https://auraofintelligence.github.io/davinci-resolve-automations/",
+      "repository": "https://github.com/auraofintelligence/davinci-resolve-automations",
+      "description": "A friendly public guide to reusable DaVinci Resolve skills and separate video asset bundles for music, podcasts, tutorials and community media.",
+      "created_at": "2026-09-09T09:49:23Z",
+      "creation_date_brisbane": "2026-09-09",
+      "topics": [
+        "astra-mcp",
+        "australian-creators",
+        "automation",
+        "davinci-resolve",
+        "motion-graphics",
+        "music-video",
+        "podcast",
+        "public-source",
+        "tutorial-videos",
+        "video-editing"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/davinci-resolve-automations/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "dunwich-gumpi-ferry-terminal-open-data-lab",
+      "search_identifier": "auraofintelligence-dunwich-gumpi-ferry-terminal-open-data-lab",
+      "website": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/",
+      "repository": "https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab",
+      "description": "Public prototype using open data and simulation to explore questions around the Dunwich (Gumpi) Ferry Terminal Upgrade.",
+      "created_at": "2026-06-08T11:07:15Z",
+      "creation_date_brisbane": "2026-06-08",
+      "topics": [
+        "civic-tech",
+        "minjerribah",
+        "open-data",
+        "simulation",
+        "transport"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "eros-pc",
+      "search_identifier": "auraofintelligence-eros-pc",
+      "website": "https://auraofintelligence.github.io/eros-pc/",
+      "repository": "https://github.com/auraofintelligence/eros-pc",
+      "description": "Adult-oriented browser worldbuilding console for drafting fictional people, places, relationships, ventures and story events on a map.",
+      "created_at": "2025-08-25T07:20:57Z",
+      "creation_date_brisbane": "2025-08-25",
+      "topics": [
+        "adult-only",
+        "browser-tool",
+        "interactive-map",
+        "storytelling",
+        "worldbuilding"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/eros-pc/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "eros-story",
+      "search_identifier": "auraofintelligence-eros-story",
+      "website": "https://auraofintelligence.github.io/eros-story/",
+      "repository": "https://github.com/auraofintelligence/eros-story",
+      "description": "Adult-oriented mobile story console for collecting fictional people, places, ventures, arcs and outcomes as a reorderable feed.",
+      "created_at": "2025-08-25T06:19:49Z",
+      "creation_date_brisbane": "2025-08-25",
+      "topics": [
+        "adult-only",
+        "browser-tool",
+        "local-storage",
+        "mobile-first",
+        "storytelling"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/eros-story/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "event-search-QLD",
+      "search_identifier": "auraofintelligence-event-search-QLD",
+      "website": "https://auraofintelligence.github.io/event-search-QLD/",
+      "repository": "https://github.com/auraofintelligence/event-search-QLD",
+      "description": "Static event triage page for finding South East Queensland events about AI, robotics, governance, law and public policy.",
+      "created_at": "2026-02-28T02:33:05Z",
+      "creation_date_brisbane": "2026-02-28",
+      "topics": [
+        "ai-tools",
+        "browser-tool",
+        "event-planning",
+        "public-policy",
+        "queensland"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/event-search-QLD/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "explorer-music-video-lab",
+      "search_identifier": "auraofintelligence-explorer-music-video-lab",
+      "website": "https://auraofintelligence.github.io/explorer-music-video-lab/",
+      "repository": "https://github.com/auraofintelligence/explorer-music-video-lab",
+      "description": "Static music-video planning lab with Markdown builders for turning songs into practical clip briefs and production handoffs.",
+      "created_at": "2026-06-10T18:39:18Z",
+      "creation_date_brisbane": "2026-06-11",
+      "topics": [
+        "filmmaking",
+        "github-pages",
+        "markdown-builder",
+        "media-production",
+        "music-video"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/explorer-music-video-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "extreme-matter-atlas",
+      "search_identifier": "auraofintelligence-extreme-matter-atlas",
+      "website": "https://auraofintelligence.github.io/extreme-matter-atlas/",
+      "repository": "https://github.com/auraofintelligence/extreme-matter-atlas",
+      "description": "Interactive atlas of matter at its limits: the periodic table, record-holding atoms, GNoME crystal predictions, a playable crystal lab, metamaterials and open questions",
+      "created_at": "2026-08-27T13:06:32Z",
+      "creation_date_brisbane": "2026-08-27",
+      "topics": [
+        "interactive-atlas",
+        "materials-science",
+        "science"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/extreme-matter-atlas/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "film-club-documentary-builders",
+      "search_identifier": "auraofintelligence-film-club-documentary-builders",
+      "website": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+      "repository": "https://github.com/auraofintelligence/film-club-documentary-builders",
+      "description": "Static Markdown builder toolkit for documentary research, source trails, interviews, scene evidence, assembly and screening notes.",
+      "created_at": "2026-05-20T01:57:40Z",
+      "creation_date_brisbane": "2026-05-20",
+      "topics": [
+        "documentary",
+        "filmmaking",
+        "markdown-builder",
+        "research-workbench",
+        "source-led"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/film-club-documentary-builders/blob/master/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "fractal-aura",
+      "search_identifier": "auraofintelligence-fractal-aura",
+      "website": "https://auraofintelligence.github.io/fractal-aura/",
+      "repository": "https://github.com/auraofintelligence/fractal-aura",
+      "description": "Interactive design document for the proposed local-first Aura Engine, built from small learning and activity units called atoms.",
+      "created_at": "2025-09-09T11:35:36Z",
+      "creation_date_brisbane": "2025-09-09",
+      "topics": [
+        "aura-of-intelligence",
+        "concept-site",
+        "learning-design",
+        "local-first",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/fractal-aura/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Future-of-Life-2045",
+      "search_identifier": "auraofintelligence-Future-of-Life-2045",
+      "website": "https://auraofintelligence.github.io/Future-of-Life-2045/",
+      "repository": "https://github.com/auraofintelligence/Future-of-Life-2045",
+      "description": "An interactive 2045 worldbuilding site linking family, resilience, open intelligence, movement, science and culture.",
+      "created_at": "2026-08-29T04:58:52Z",
+      "creation_date_brisbane": "2026-08-29",
+      "topics": [
+        "civilisation-design",
+        "future-studies",
+        "github-pages",
+        "interactive-site",
+        "open-intelligence",
+        "relationship-design",
+        "resilience",
+        "speculative-design",
+        "worldbuilding"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Future-of-Life-2045/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "GAJRA-earth",
+      "search_identifier": "auraofintelligence-GAJRA-earth",
+      "website": "https://auraofintelligence.github.io/GAJRA-earth/",
+      "repository": "https://github.com/auraofintelligence/GAJRA-earth",
+      "description": "Earlier single-page GAJRA Earth concept preserved as a public record of the joyful responsible abundance vision.",
+      "created_at": "2025-09-06T07:30:23Z",
+      "creation_date_brisbane": "2025-09-06",
+      "topics": [
+        "concept-site",
+        "gajra-earth",
+        "github-pages",
+        "project-history",
+        "regenerative-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/GAJRA-earth/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "gajra-earth-claude-build",
+      "search_identifier": "auraofintelligence-gajra-earth-claude-build",
+      "website": "https://auraofintelligence.github.io/gajra-earth-claude-build/",
+      "repository": "https://github.com/auraofintelligence/gajra-earth-claude-build",
+      "description": "Separate July 2026 Luke and Claude concept build for GAJRA Earth; Global Association for Joyful Responsible Abundance. It also follows AI/SI Alignment & legislative action globally.",
+      "created_at": "2026-07-27T01:54:37Z",
+      "creation_date_brisbane": "2026-07-27",
+      "topics": [
+        "ai-alignment",
+        "ai-legislative-action",
+        "gajra-earth",
+        "github-pages",
+        "luke-and-claude",
+        "project-history",
+        "si-alignment"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/gajra-earth-claude-build/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "GAJRA-earth-infinity",
+      "search_identifier": "auraofintelligence-GAJRA-earth-infinity",
+      "website": "https://auraofintelligence.github.io/GAJRA-earth-infinity/",
+      "repository": "https://github.com/auraofintelligence/GAJRA-earth-infinity",
+      "description": "GAJRA Earth: a living public practice for joyful responsible abundance, alignment and local-first participation.",
+      "created_at": "2026-07-27T02:40:01Z",
+      "creation_date_brisbane": "2026-07-27",
+      "topics": [
+        "community-planning",
+        "gajra-earth",
+        "local-first",
+        "public-interest",
+        "regenerative-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/GAJRA-earth-infinity/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "gajra-earth-public-hub",
+      "search_identifier": "auraofintelligence-gajra-earth-public-hub",
+      "website": "https://auraofintelligence.github.io/gajra-earth-public-hub/",
+      "repository": "https://github.com/auraofintelligence/gajra-earth-public-hub",
+      "description": "Fresh multi-page public hub for GAJRA Earth, kept separate from the earlier concept repository and current gajra.earth site.",
+      "created_at": "2026-05-26T07:56:44Z",
+      "creation_date_brisbane": "2026-05-26",
+      "topics": [
+        "gajra-earth",
+        "github-pages",
+        "project-index",
+        "regenerative-design",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/gajra-earth-public-hub/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "GAJRA_Earth-Space-AI_Summit",
+      "search_identifier": "auraofintelligence-GAJRA_Earth-Space-AI_Summit",
+      "website": "https://auraofintelligence.github.io/GAJRA_Earth-Space-AI_Summit/",
+      "repository": "https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit",
+      "description": "Public support-seeking site for a proposed Brisbane gathering connecting peaceful space, civic AI, care and community resilience.",
+      "created_at": "2026-04-13T10:49:25Z",
+      "creation_date_brisbane": "2026-04-13",
+      "topics": [
+        "ai-tools",
+        "event-planning",
+        "gajra-earth",
+        "resilience",
+        "space"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/GAJRA_Earth-Space-AI_Summit/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "geode-vibe",
+      "search_identifier": "auraofintelligence-geode-vibe",
+      "website": "https://auraofintelligence.github.io/geode-vibe/",
+      "repository": "https://github.com/auraofintelligence/geode-vibe",
+      "description": "Interactive concept page explaining a proposed security architecture for Aura of Intelligence and the physical Aura Geode idea.",
+      "created_at": "2025-09-03T02:56:27Z",
+      "creation_date_brisbane": "2025-09-03",
+      "topics": [
+        "aura-of-intelligence",
+        "concept-site",
+        "digital-sovereignty",
+        "security"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/geode-vibe/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "global-founder-atlas",
+      "search_identifier": "auraofintelligence-global-founder-atlas",
+      "website": "https://auraofintelligence.github.io/global-founder-atlas/",
+      "repository": "https://github.com/auraofintelligence/global-founder-atlas",
+      "description": "Source-led atlas for an Australian founder comparing international funding, startup visas, residencies, research placements and paid pilots.",
+      "created_at": "2026-07-21T23:36:59Z",
+      "creation_date_brisbane": "2026-07-22",
+      "topics": [
+        "founder-support",
+        "funding-research",
+        "source-led",
+        "travel-planning",
+        "visa-research"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/global-founder-atlas/blob/master/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "global-group-marriages",
+      "search_identifier": "auraofintelligence-global-group-marriages",
+      "website": "https://auraofintelligence.github.io/global-group-marriages/",
+      "repository": "https://github.com/auraofintelligence/global-group-marriages",
+      "description": "Public v2 site exploring voluntary global group marriages, larger families, care, consent and self-sovereign adult relationships.",
+      "created_at": "2025-08-20T05:32:27Z",
+      "creation_date_brisbane": "2025-08-20",
+      "topics": [
+        "consent",
+        "family-systems",
+        "github-pages",
+        "group-marriage",
+        "relationship-design",
+        "self-sovereignty"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/global-group-marriages/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "grain-by-grain",
+      "search_identifier": "auraofintelligence-grain-by-grain",
+      "website": "https://auraofintelligence.github.io/grain-by-grain/",
+      "repository": "https://github.com/auraofintelligence/grain-by-grain",
+      "description": "Public pathway connecting a Dunwich ferry-terminal idea to long-horizon civilisation resilience on Minjerribah, built rung by rung.",
+      "created_at": "2026-07-18T04:55:53Z",
+      "creation_date_brisbane": "2026-07-18",
+      "topics": [
+        "civic-prototype",
+        "civilisation-of-sand",
+        "minjerribah",
+        "resilience",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/grain-by-grain/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "grain-by-grain-documentary",
+      "search_identifier": "auraofintelligence-grain-by-grain-documentary",
+      "website": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
+      "repository": "https://github.com/auraofintelligence/grain-by-grain-documentary",
+      "description": "Public 90-minute documentary treatment and repo field map for The Long Game: Grain by Grain",
+      "created_at": "2026-08-01T03:44:15Z",
+      "creation_date_brisbane": "2026-08-01",
+      "topics": [
+        "civilisation-of-sand",
+        "documentary",
+        "existential-risk",
+        "filmmaking",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/grain-by-grain-documentary/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "grey-area-commons",
+      "search_identifier": "auraofintelligence-grey-area-commons",
+      "website": "https://auraofintelligence.github.io/grey-area-commons/",
+      "repository": "https://github.com/auraofintelligence/grey-area-commons",
+      "description": "Adult-only, privacy-preserving Markdown question path for making intimate connection gentler, clearer and more consensual.",
+      "created_at": "2026-05-15T11:18:24Z",
+      "creation_date_brisbane": "2026-05-15",
+      "topics": [
+        "adult-only",
+        "consent",
+        "markdown-builder",
+        "privacy-first",
+        "relationship-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/grey-area-commons/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "how-to-use-md-with-ai",
+      "search_identifier": "auraofintelligence-how-to-use-md-with-ai",
+      "website": "https://auraofintelligence.github.io/how-to-use-md-with-ai/",
+      "repository": "https://github.com/auraofintelligence/how-to-use-md-with-ai",
+      "description": "Public guide and browser-local builder explaining how Markdown forms can prepare structured context for AI tools and coding agents.",
+      "created_at": "2026-06-02T02:24:08Z",
+      "creation_date_brisbane": "2026-06-02",
+      "topics": [
+        "agent-workflows",
+        "ai-tools",
+        "browser-tool",
+        "markdown",
+        "public-guide"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/how-to-use-md-with-ai/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "i-C-infinity-music-universe",
+      "search_identifier": "auraofintelligence-I-c-infinity-music-universe",
+      "website": "https://auraofintelligence.github.io/i-C-infinity-music-universe/",
+      "repository": "https://github.com/auraofintelligence/i-C-infinity-music-universe",
+      "description": "Static public catalogue for the i C. infinity music universe, with albums, songs, lyrics, videos, merchandise and content pathways.",
+      "created_at": "2025-09-21T02:29:04Z",
+      "creation_date_brisbane": "2025-09-21",
+      "topics": [
+        "github-pages",
+        "i-c-infinity",
+        "i-c-infinity-music-universe",
+        "media-production",
+        "music",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/i-C-infinity-music-universe/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "i-C-infinity-one-album-pack",
+      "search_identifier": "auraofintelligence-i-C-infinity-one-album-pack",
+      "website": "https://auraofintelligence.github.io/i-C-infinity-one-album-pack/",
+      "repository": "https://github.com/auraofintelligence/i-C-infinity-one-album-pack",
+      "description": "",
+      "created_at": "2026-05-06T10:20:10Z",
+      "creation_date_brisbane": "2026-05-06",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/i-C-infinity-one-album-pack/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "i-C-infinity-three-album-pack",
+      "search_identifier": "auraofintelligence-i-C-infinity-three-album-pack",
+      "website": "https://auraofintelligence.github.io/i-C-infinity-three-album-pack/",
+      "repository": "https://github.com/auraofintelligence/i-C-infinity-three-album-pack",
+      "description": "",
+      "created_at": "2026-05-06T10:20:35Z",
+      "creation_date_brisbane": "2026-05-06",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/i-C-infinity-three-album-pack/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "i-C-infinity-two-album-pack",
+      "search_identifier": "auraofintelligence-i-C-infinity-two-album-pack",
+      "website": "https://auraofintelligence.github.io/i-C-infinity-two-album-pack/",
+      "repository": "https://github.com/auraofintelligence/i-C-infinity-two-album-pack",
+      "description": "",
+      "created_at": "2026-05-06T10:20:20Z",
+      "creation_date_brisbane": "2026-05-06",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/i-C-infinity-two-album-pack/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "infinity-content-engine",
+      "search_identifier": "auraofintelligence-infinity-content-engine",
+      "website": "https://auraofintelligence.github.io/infinity-content-engine/",
+      "repository": "https://github.com/auraofintelligence/infinity-content-engine",
+      "description": "Interactive design document for a proposed pipeline turning songs and stories into vertical micro-dramas and other visual content.",
+      "created_at": "2025-10-02T03:56:34Z",
+      "creation_date_brisbane": "2025-10-02",
+      "topics": [
+        "concept-site",
+        "i-c-infinity",
+        "media-production",
+        "music-video",
+        "storytelling"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/infinity-content-engine/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "infinity-engine",
+      "search_identifier": "auraofintelligence-infinity-engine",
+      "website": "https://auraofintelligence.github.io/infinity-engine/",
+      "repository": "https://github.com/auraofintelligence/infinity-engine",
+      "description": "Model-agnostic pipeline turning i C. infinity songs into visuals. Luke x Claude.",
+      "created_at": "2026-07-20T10:48:51Z",
+      "creation_date_brisbane": "2026-07-20",
+      "topics": [
+        "i-c-infinity",
+        "local-first",
+        "media-production",
+        "music-video",
+        "python"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/infinity-engine/blob/main/LICENCE.md",
+      "licence_label": "Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "JRA-Product-Engine-Plan",
+      "search_identifier": "auraofintelligence-JRA-Product-Engine-Plan",
+      "website": "https://auraofintelligence.github.io/JRA-Product-Engine-Plan/",
+      "repository": "https://github.com/auraofintelligence/JRA-Product-Engine-Plan",
+      "description": "Joyful Responsible Abundance: a public explainer and working product engine connecting making, marketing, community and circular use.",
+      "created_at": "2026-09-28T05:12:20Z",
+      "creation_date_brisbane": "2026-09-28",
+      "topics": [
+        "circular-economy",
+        "community",
+        "human-in-the-loop",
+        "joyful-responsible-abundance",
+        "product-design",
+        "public-source"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/JRA-Product-Engine-Plan/blob/main/LICENSE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "knights-templar-Timothy-Hogan",
+      "search_identifier": "auraofintelligence-knights-templar-Timothy-Hogan",
+      "website": "https://auraofintelligence.github.io/knights-templar-Timothy-Hogan/",
+      "repository": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan",
+      "description": "An invitation from Luke Nathan Hayes to explore Timothy Hogan interview connections, Aura, Queens Venture, research and network ideas. Joyful Responsible Abundance, the 11:11 synchronicity, original documents and a growing archive.",
+      "created_at": "2026-09-11T04:11:28Z",
+      "creation_date_brisbane": "2026-09-11",
+      "topics": [
+        "astro",
+        "aura-of-intelligence",
+        "consciousness",
+        "digital-archive",
+        "github-pages",
+        "joyful-responsible-abundance",
+        "knights-templar",
+        "queens-venture",
+        "research",
+        "sovereign-computing",
+        "synchronicity",
+        "timothy-hogan"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/knights-templar-Timothy-Hogan/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "legal-memory-workbench",
+      "search_identifier": "auraofintelligence-legal-memory-workbench",
+      "website": "https://auraofintelligence.github.io/legal-memory-workbench/",
+      "repository": "https://github.com/auraofintelligence/legal-memory-workbench",
+      "description": "Public browser workbench for preparing local, AI-ready legal-information Markdown; it does not provide legal advice.",
+      "created_at": "2026-05-13T11:11:59Z",
+      "creation_date_brisbane": "2026-05-13",
+      "topics": [
+        "ai-tools",
+        "browser-tool",
+        "legal-information",
+        "markdown-builder",
+        "privacy-first"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/legal-memory-workbench/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "lifetime-memory-map",
+      "search_identifier": "auraofintelligence-lifetime-memory-map",
+      "website": "https://auraofintelligence.github.io/lifetime-memory-map/",
+      "repository": "https://github.com/auraofintelligence/lifetime-memory-map",
+      "description": "Luke Nathan Hayes's illustrated life, residence and travel history. A work in progress with editable memory fragments.",
+      "created_at": "2026-10-01T15:33:27Z",
+      "creation_date_brisbane": "2026-10-02",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "life-history",
+        "memory-map",
+        "residences",
+        "storytelling",
+        "strange-but-true",
+        "travel"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/lifetime-memory-map/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "loose-goose-comedy-engine",
+      "search_identifier": "auraofintelligence-loose-goose-comedy-engine",
+      "website": "https://auraofintelligence.github.io/loose-goose-comedy-engine/",
+      "repository": "https://github.com/auraofintelligence/loose-goose-comedy-engine",
+      "description": "Local-first browser tool for shaping truthful memories into editable stand-up material, scoring beats and exporting working notes.",
+      "created_at": "2026-08-19T07:59:12Z",
+      "creation_date_brisbane": "2026-08-19",
+      "topics": [
+        "browser-tool",
+        "comedy",
+        "local-first",
+        "source-led",
+        "stand-up"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/loose-goose-comedy-engine/blob/main/LICENCE.md",
+      "licence_label": "Strange but True Public Source Licence — Loose Goose Comedy Engine Adapter",
+      "visibility": "public"
+    },
+    {
+      "name": "luke-nathan-hayes-man-and-mind",
+      "search_identifier": "auraofintelligence-luke-nathan-hayes-man-and-mind",
+      "website": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/",
+      "repository": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind",
+      "description": "attempt at a portfolio with codex sol5.6",
+      "created_at": "2026-09-04T02:43:51Z",
+      "creation_date_brisbane": "2026-09-04",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/luke-nathan-hayes-man-and-mind/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Lukes-world-of-work-experience",
+      "search_identifier": "auraofintelligence-Lukes-world-of-work-experience",
+      "website": "https://auraofintelligence.github.io/Lukes-world-of-work-experience/",
+      "repository": "https://github.com/auraofintelligence/Lukes-world-of-work-experience",
+      "description": "An illustrated world of Luke Hayes' work, education and volunteering. Every role has a place. Explore a growing source-backed history.",
+      "created_at": "2026-09-21T11:05:33Z",
+      "creation_date_brisbane": "2026-09-21",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/Lukes-world-of-work-experience/blob/main/LICENSE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "mate-ecosystem",
+      "search_identifier": "auraofintelligence-mate-ecosystem",
+      "website": "https://auraofintelligence.github.io/mate-ecosystem/",
+      "repository": "https://github.com/auraofintelligence/mate-ecosystem",
+      "description": "Interactive concept report connecting proposed home, food, health and community helpers across the Mate Ecosystem.",
+      "created_at": "2025-09-05T05:25:22Z",
+      "creation_date_brisbane": "2025-09-05",
+      "topics": [
+        "community-planning",
+        "food-systems",
+        "health-planning",
+        "interactive-dashboard",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/mate-ecosystem/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "meet-luke",
+      "search_identifier": "auraofintelligence-meet-luke",
+      "website": "https://auraofintelligence.github.io/meet-luke/",
+      "repository": "https://github.com/auraofintelligence/meet-luke",
+      "description": "One-page public introduction to Luke Nathan Hayes as a systems architect, speaker and beach-tech builder.",
+      "created_at": "2025-08-08T05:32:42Z",
+      "creation_date_brisbane": "2025-08-08",
+      "topics": [
+        "github-pages",
+        "personal-portfolio",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/meet-luke/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "micronova-and-excursions",
+      "search_identifier": "auraofintelligence-micronova-and-excursions",
+      "website": "https://auraofintelligence.github.io/micronova-and-excursions/",
+      "repository": "https://github.com/auraofintelligence/micronova-and-excursions",
+      "description": "Evidence ledger separating settled, contested and speculative claims about solar micronova hypotheses and geomagnetic excursions.",
+      "created_at": "2026-08-01T06:28:17Z",
+      "creation_date_brisbane": "2026-08-01",
+      "topics": [
+        "earth-science",
+        "research",
+        "science",
+        "source-led"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/micronova-and-excursions/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "mineral-moonshots",
+      "search_identifier": "auraofintelligence-mineral-moonshots",
+      "website": "https://auraofintelligence.github.io/mineral-moonshots/",
+      "repository": "https://github.com/auraofintelligence/mineral-moonshots",
+      "description": "Mineral Moonshots static site for island-scale speculative civic world-building",
+      "created_at": "2026-05-04T09:12:12Z",
+      "creation_date_brisbane": "2026-05-04",
+      "topics": [
+        "civic-prototype",
+        "concept-site",
+        "materials-science",
+        "minjerribah",
+        "space"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/mineral-moonshots/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "minjerribah-living-twin",
+      "search_identifier": "auraofintelligence-minjerribah-living-twin",
+      "website": "https://auraofintelligence.github.io/minjerribah-living-twin/",
+      "repository": "https://github.com/auraofintelligence/minjerribah-living-twin",
+      "description": "A living digital twin of Minjerribah / North Stradbroke Island, Quandamooka Country, in a browser game engine. Built from public records. Not reviewed by the Traditional Owners.",
+      "created_at": "2026-08-10T04:56:21Z",
+      "creation_date_brisbane": "2026-08-10",
+      "topics": [
+        "digital-twin",
+        "github-pages",
+        "minjerribah",
+        "open-data",
+        "simulation"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/minjerribah-living-twin/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Minjerribah-Resilience",
+      "search_identifier": "auraofintelligence-Minjerribah-Resilience",
+      "website": "https://auraofintelligence.github.io/Minjerribah-Resilience/",
+      "repository": "https://github.com/auraofintelligence/Minjerribah-Resilience",
+      "description": "Interactive Minjerribah Protocol concept exploring local power, water, food, communications, governance and longer-horizon resilience.",
+      "created_at": "2025-10-28T01:15:40Z",
+      "creation_date_brisbane": "2025-10-28",
+      "topics": [
+        "civic-prototype",
+        "minjerribah",
+        "resilience",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Minjerribah-Resilience/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "minjerribah-screen-media-network",
+      "search_identifier": "auraofintelligence-minjerribah-screen-media-network",
+      "website": "https://auraofintelligence.github.io/minjerribah-screen-media-network/",
+      "repository": "https://github.com/auraofintelligence/minjerribah-screen-media-network",
+      "description": "Stories, skills, screens and trusted local information for Minjerribah — a staged public collaboration proposal.",
+      "created_at": "2026-07-24T02:18:57Z",
+      "creation_date_brisbane": "2026-07-24",
+      "topics": [
+        "community-media",
+        "community-planning",
+        "minjerribah",
+        "public-proposal",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/minjerribah-screen-media-network/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "minjerribah-wildlife-rescue",
+      "search_identifier": "auraofintelligence-minjerribah-wildlife-rescue",
+      "website": "https://auraofintelligence.github.io/minjerribah-wildlife-rescue/",
+      "repository": "https://github.com/auraofintelligence/minjerribah-wildlife-rescue",
+      "description": "Community-oriented wildlife rescue map for Minjerribah, built as a Luke and Claude prototype rather than an official service.",
+      "created_at": "2026-07-20T03:52:43Z",
+      "creation_date_brisbane": "2026-07-20",
+      "topics": [
+        "github-pages",
+        "interactive-map",
+        "luke-and-claude",
+        "minjerribah",
+        "wildlife-rescue"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/minjerribah-wildlife-rescue/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "moreton-bay-autonomous-mobility",
+      "search_identifier": "auraofintelligence-moreton-bay-autonomous-mobility",
+      "website": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/",
+      "repository": "https://github.com/auraofintelligence/moreton-bay-autonomous-mobility",
+      "description": "Independent public-interest proposal exploring autonomous mobility across the Moreton Bay island and mainland transport network.",
+      "created_at": "2026-08-26T01:57:48Z",
+      "creation_date_brisbane": "2026-08-26",
+      "topics": [
+        "moreton-bay",
+        "public-interest",
+        "public-proposal",
+        "transport"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/moreton-bay-autonomous-mobility/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "moreton-bay-community-wealth-and-mutuals",
+      "search_identifier": "auraofintelligence-moreton-bay-community-wealth-and-mutuals",
+      "website": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/",
+      "repository": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals",
+      "description": "Plain-English public concept exploring community wealth, mutual protection and Indigenous data sovereignty across the Moreton Bay islands.",
+      "created_at": "2026-06-09T06:21:43Z",
+      "creation_date_brisbane": "2026-06-09",
+      "topics": [
+        "community-wealth",
+        "indigenous-data-sovereignty",
+        "moreton-bay",
+        "public-guide"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "multi-site-Minjerribah-network",
+      "search_identifier": "auraofintelligence-multi-site-Minjerribah-network",
+      "website": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+      "repository": "https://github.com/auraofintelligence/multi-site-Minjerribah-network",
+      "description": "Public working concepts for 7 Mile and other Minjerribah sites and services across living, culture, sand sport, screen work, recovery, safety, housing, ageing, research and community wealth.",
+      "created_at": "2026-09-07T07:16:34Z",
+      "creation_date_brisbane": "2026-09-07",
+      "topics": [
+        "aged-care",
+        "anti-ageing",
+        "australia",
+        "community-sites",
+        "community-wealth",
+        "cultural-residencies",
+        "digital-twins",
+        "healthy-ageing",
+        "housing",
+        "indigenous-community",
+        "longevity",
+        "makerspace",
+        "minjerribah",
+        "noonuccal",
+        "north-stradbroke-island",
+        "outdoor-cinema",
+        "ready-set-co-op",
+        "sand-sports",
+        "screen-culture",
+        "seven-mile"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/multi-site-Minjerribah-network/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "mutual-futures",
+      "search_identifier": "auraofintelligence-mutual-futures",
+      "website": "https://auraofintelligence.github.io/mutual-futures/",
+      "repository": "https://github.com/auraofintelligence/mutual-futures",
+      "description": "",
+      "created_at": "2026-09-18T04:42:50Z",
+      "creation_date_brisbane": "2026-09-18",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/mutual-futures/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "new-tori",
+      "search_identifier": "auraofintelligence-new-tori",
+      "website": "https://auraofintelligence.github.io/new-tori/",
+      "repository": "https://github.com/auraofintelligence/new-tori",
+      "description": "Compact Three.js sandbox for arranging faceted torus rings and exporting browser-session interactions as NDJSON.",
+      "created_at": "2025-10-07T16:07:02Z",
+      "creation_date_brisbane": "2025-10-08",
+      "topics": [
+        "aura-of-intelligence",
+        "browser-experiment",
+        "open-data",
+        "threejs",
+        "torus"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/new-tori/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Oceania-healthy-de-slop-co-ops",
+      "search_identifier": "auraofintelligence-Oceania-healthy-de-slop-co-ops",
+      "website": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+      "repository": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops",
+      "description": "Regional public project exploring locally shaped health co-operatives, Hyperbaric Oxygen Therapy with Personal Atmosphere Delivery System research, sauna access and self-sovereign local compute.",
+      "created_at": "2026-08-30T02:03:59Z",
+      "creation_date_brisbane": "2026-08-30",
+      "topics": [
+        "community-cooperative",
+        "digital-twin",
+        "github-pages",
+        "local-first",
+        "oceania",
+        "privacy-first",
+        "public-interest",
+        "speculative-design",
+        "wellbeing-research"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "p4a-native-nations-cinema",
+      "search_identifier": "auraofintelligence-p4a-native-nations-cinema",
+      "website": "https://auraofintelligence.github.io/p4a-native-nations-cinema/",
+      "repository": "https://github.com/auraofintelligence/p4a-native-nations-cinema",
+      "description": "Native Nations of the World — sovereign co-evolution lab. Indigenous data sovereignty, decentralised compute, the C-Hour, and revised agreements. Invitational, forkable, kintsugi-themed. P4A cinema family.",
+      "created_at": "2026-07-10T07:09:30Z",
+      "creation_date_brisbane": "2026-07-10",
+      "topics": [
+        "civic-prototype",
+        "community-wealth",
+        "distributed-computing",
+        "indigenous-data-sovereignty",
+        "p4a"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/p4a-native-nations-cinema/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "p4a-oceania-cinema",
+      "search_identifier": "auraofintelligence-p4a-oceania-cinema",
+      "website": "https://auraofintelligence.github.io/p4a-oceania-cinema/",
+      "repository": "https://github.com/auraofintelligence/p4a-oceania-cinema",
+      "description": "P4A Oceania Expansion Lab — cinematic rebuild with pulse board and shared currents. A Luke x Claude build (fork of p4a-oceania-expansion-lab).",
+      "created_at": "2026-07-07T04:15:48Z",
+      "creation_date_brisbane": "2026-07-07",
+      "topics": [
+        "civic-prototype",
+        "luke-and-claude",
+        "oceania",
+        "p4a",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/p4a-oceania-cinema/blob/main/LICENCE.md",
+      "licence_label": "P4A Oceania Expansion Lab Public Stewardship Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "p4a-oceania-expansion-lab",
+      "search_identifier": "auraofintelligence-p4a-oceania-expansion-lab",
+      "website": "https://auraofintelligence.github.io/p4a-oceania-expansion-lab/",
+      "repository": "https://github.com/auraofintelligence/p4a-oceania-expansion-lab",
+      "description": "Open civic prototype exploring how the proposed Purple Party for Australia workbench might translate across Oceania.",
+      "created_at": "2026-07-01T11:43:35Z",
+      "creation_date_brisbane": "2026-07-01",
+      "topics": [
+        "civic-prototype",
+        "github-pages",
+        "oceania",
+        "p4a",
+        "public-policy"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/p4a-oceania-expansion-lab/blob/main/LICENCE.md",
+      "licence_label": "P4A Oceania Expansion Lab Public Stewardship Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "p4a-xyz-cinema",
+      "search_identifier": "auraofintelligence-p4a-xyz-cinema",
+      "website": "https://p4a.xyz/",
+      "repository": "https://github.com/auraofintelligence/p4a-xyz-cinema",
+      "description": "P4A / Purple Party for Australia — cinematic rebuild. A Luke x Claude build (fork of p4a_xyz).",
+      "created_at": "2026-07-07T04:15:11Z",
+      "creation_date_brisbane": "2026-07-07",
+      "topics": [
+        "australian-politics",
+        "civic-prototype",
+        "luke-and-claude",
+        "p4a",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/p4a-xyz-cinema/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "p4a_xyz",
+      "search_identifier": "auraofintelligence-p4a_xyz",
+      "website": "https://auraofintelligence.github.io/p4a_xyz/",
+      "repository": "https://github.com/auraofintelligence/p4a_xyz",
+      "description": "Public civic workbench for the proposed Purple Party for Australia; it is not a registered political party.",
+      "created_at": "2026-05-01T07:37:43Z",
+      "creation_date_brisbane": "2026-05-01",
+      "topics": [
+        "australian-politics",
+        "civic-prototype",
+        "democratic-innovation",
+        "github-pages",
+        "p4a"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/p4a_xyz/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "P4Australia",
+      "search_identifier": "auraofintelligence-P4Australia",
+      "website": "https://auraofintelligence.github.io/P4Australia/",
+      "repository": "https://github.com/auraofintelligence/P4Australia",
+      "description": "Early single-page civic concept for the proposed People's Purple Protopian Party and its Purple Synthesis.",
+      "created_at": "2025-10-29T05:57:46Z",
+      "creation_date_brisbane": "2025-10-29",
+      "topics": [
+        "australian-politics",
+        "civic-prototype",
+        "concept-site",
+        "democratic-innovation",
+        "p4a"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/P4Australia/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "plfc-ai-agent-md-forms",
+      "search_identifier": "auraofintelligence-plfc-ai-agent-md-forms",
+      "website": "https://auraofintelligence.github.io/plfc-ai-agent-md-forms/",
+      "repository": "https://github.com/auraofintelligence/plfc-ai-agent-md-forms",
+      "description": "Static Point Lookout Fishing Club forms that turn plain-English answers into portable, AI-ready Markdown files.",
+      "created_at": "2026-06-04T05:39:20Z",
+      "creation_date_brisbane": "2026-06-04",
+      "topics": [
+        "ai-tools",
+        "fishing",
+        "github-pages",
+        "markdown-builder",
+        "point-lookout-fishing-club"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "plfc-community-platform",
+      "search_identifier": "auraofintelligence-plfc-community-platform",
+      "website": "https://auraofintelligence.github.io/plfc-community-platform/",
+      "repository": "https://github.com/auraofintelligence/plfc-community-platform",
+      "description": "Open-source Point Lookout Fishing Club community platform prototype",
+      "created_at": "2026-05-03T07:21:42Z",
+      "creation_date_brisbane": "2026-05-03",
+      "topics": [
+        "club-management",
+        "open-source",
+        "point-lookout-fishing-club",
+        "web-app"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/plfc-community-platform/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "PLFC_01",
+      "search_identifier": "auraofintelligence-PLFC_01",
+      "website": "https://auraofintelligence.github.io/PLFC_01/",
+      "repository": "https://github.com/auraofintelligence/PLFC_01",
+      "description": "Early browser prototype for Point Lookout Fishing Club member tools and committee micro-apps, with several deliberate placeholders.",
+      "created_at": "2025-08-10T02:44:53Z",
+      "creation_date_brisbane": "2025-08-10",
+      "topics": [
+        "browser-prototype",
+        "browser-tool",
+        "club-management",
+        "github-pages",
+        "point-lookout-fishing-club"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/PLFC_01/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "PLFC_02",
+      "search_identifier": "auraofintelligence-PLFC_02",
+      "website": "https://auraofintelligence.github.io/PLFC_02/",
+      "repository": "https://github.com/auraofintelligence/PLFC_02",
+      "description": "Single-file fishing conditions prototype comparing solunar windows, tides, weather and waves around Minjerribah.",
+      "created_at": "2025-08-10T03:54:12Z",
+      "creation_date_brisbane": "2025-08-10",
+      "topics": [
+        "fishing",
+        "point-lookout-fishing-club",
+        "solunar",
+        "tides",
+        "weather"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/PLFC_02/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "PLFC_2026_Data",
+      "search_identifier": "auraofintelligence-PLFC_2026_Data",
+      "website": "https://auraofintelligence.github.io/PLFC_2026_Data/",
+      "repository": "https://github.com/auraofintelligence/PLFC_2026_Data",
+      "description": "Static Point Lookout Fishing Club AGM discussion dashboard presenting a dated snapshot of club activity and possible next steps.",
+      "created_at": "2026-04-13T02:15:04Z",
+      "creation_date_brisbane": "2026-04-13",
+      "topics": [
+        "club-management",
+        "data-snapshot",
+        "github-pages",
+        "interactive-dashboard",
+        "point-lookout-fishing-club"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/PLFC_2026_Data/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "PLFC_Live",
+      "search_identifier": "auraofintelligence-PLFC_Live",
+      "website": "https://auraofintelligence.github.io/PLFC_Live/",
+      "repository": "https://github.com/auraofintelligence/PLFC_Live",
+      "description": "Concept page for a proposed portable live-streaming and digital meeting setup for Point Lookout Fishing Club.",
+      "created_at": "2026-04-13T04:11:52Z",
+      "creation_date_brisbane": "2026-04-13",
+      "topics": [
+        "concept-site",
+        "github-pages",
+        "media-production",
+        "point-lookout-fishing-club"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/PLFC_Live/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "PLFC_web_2026",
+      "search_identifier": "auraofintelligence-PLFC_web_2026",
+      "website": "https://auraofintelligence.github.io/PLFC_web_2026/",
+      "repository": "https://github.com/auraofintelligence/PLFC_web_2026",
+      "description": "React and Vite prototype for a future Point Lookout Fishing Club site, with public, member and committee concepts.",
+      "created_at": "2025-12-11T05:59:07Z",
+      "creation_date_brisbane": "2025-12-11",
+      "topics": [
+        "ai-tools",
+        "club-management",
+        "point-lookout-fishing-club",
+        "react",
+        "web-app"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/PLFC_web_2026/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "project-atlas",
+      "search_identifier": "auraofintelligence-project-atlas",
+      "website": "https://auraofintelligence.github.io/project-atlas/",
+      "repository": "https://github.com/auraofintelligence/project-atlas",
+      "description": "A human-friendly magazine atlas of Aura of Intelligence projects, live pages, build history and evidence-backed connections.",
+      "created_at": "2026-09-01T01:21:31Z",
+      "creation_date_brisbane": "2026-09-01",
+      "topics": [
+        "aura-of-intelligence",
+        "github-pages",
+        "open-source",
+        "portfolio",
+        "project-atlas",
+        "project-navigation"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/project-atlas/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "purple01",
+      "search_identifier": "auraofintelligence-purple01",
+      "website": "https://auraofintelligence.github.io/purple01/",
+      "repository": "https://github.com/auraofintelligence/purple01",
+      "description": "Early P4A concept page exploring joyful responsible abundance, democratic surges and practical stewardship.",
+      "created_at": "2026-03-19T04:12:55Z",
+      "creation_date_brisbane": "2026-03-19",
+      "topics": [
+        "australian-politics",
+        "concept-site",
+        "democratic-innovation",
+        "p4a",
+        "regenerative-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/purple01/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Purple02",
+      "search_identifier": "auraofintelligence-Purple02",
+      "website": "https://auraofintelligence.github.io/Purple02/",
+      "repository": "https://github.com/auraofintelligence/Purple02",
+      "description": "Visual architecture and page-tree concept for a future P4A web presence, policy pathway and Purple Synthesis.",
+      "created_at": "2026-03-19T06:12:03Z",
+      "creation_date_brisbane": "2026-03-19",
+      "topics": [
+        "concept-site",
+        "p4a",
+        "public-policy",
+        "web-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Purple02/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "quandamooka-country-events-engine",
+      "search_identifier": "auraofintelligence-quandamooka-country-events-engine",
+      "website": "https://auraofintelligence.github.io/quandamooka-country-events-engine/",
+      "repository": "https://github.com/auraofintelligence/quandamooka-country-events-engine",
+      "description": "Public Markdown builder and event-planning hub for Quandamooka Country events.",
+      "created_at": "2026-05-23T00:00:43Z",
+      "creation_date_brisbane": "2026-05-23",
+      "topics": [
+        "community-projects",
+        "event-planning",
+        "github-pages",
+        "markdown-builder",
+        "quandamooka-country"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "quandamooka-film-festival",
+      "search_identifier": "auraofintelligence-quandamooka-film-festival",
+      "website": "https://auraofintelligence.github.io/quandamooka-film-festival/",
+      "repository": "https://github.com/auraofintelligence/quandamooka-film-festival",
+      "description": "Draft public festival doorway and Markdown builders for human-led film planning on Quandamooka Country; authority remains unconfirmed.",
+      "created_at": "2026-06-10T08:39:15Z",
+      "creation_date_brisbane": "2026-06-10",
+      "topics": [
+        "filmmaking",
+        "markdown-builder",
+        "public-proposal",
+        "quandamooka-country"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/quandamooka-film-festival/blob/master/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Queens_Venture",
+      "search_identifier": "auraofintelligence-Queens_Venture",
+      "website": "https://auraofintelligence.github.io/Queens_Venture/",
+      "repository": "https://github.com/auraofintelligence/Queens_Venture",
+      "description": "Exploratory regenerative venture architecture combining women-led stewardship, environmental regeneration and staged capital pathways.",
+      "created_at": "2025-08-07T06:39:17Z",
+      "creation_date_brisbane": "2025-08-07",
+      "topics": [
+        "civic-prototype",
+        "interactive-dashboard",
+        "regenerative-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Queens_Venture/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "ready-set-co-op-cultural-intelligence-node",
+      "search_identifier": "auraofintelligence-ready-set-co-op-cultural-intelligence-node",
+      "website": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+      "repository": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node",
+      "description": "One local cultural compute node: a practical, repeatable plan for collaboration, useful workloads and chosen connections.",
+      "created_at": "2026-09-02T05:52:34Z",
+      "creation_date_brisbane": "2026-09-02",
+      "topics": [
+        "australia",
+        "community-compute",
+        "cooperative",
+        "cultural-collaboration",
+        "decentralised-intelligence",
+        "digital-twin",
+        "dunwich",
+        "indigenous-data-sovereignty",
+        "local-compute",
+        "minjerribah",
+        "multimodal-models",
+        "sovereign-technology"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "ready-set-co-op-hyperlocal-media",
+      "search_identifier": "auraofintelligence-ready-set-co-op-hyperlocal-media",
+      "website": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/",
+      "repository": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media",
+      "description": "Public proposal for a local-first mixed-media network connecting stories, skills, tools and possible work pathways on Minjerribah.",
+      "created_at": "2026-05-01T03:43:13Z",
+      "creation_date_brisbane": "2026-05-01",
+      "topics": [
+        "community-media",
+        "community-planning",
+        "minjerribah",
+        "public-proposal",
+        "ready-set-co-op"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "ready-set-co-op-trust-hub",
+      "search_identifier": "auraofintelligence-ready-set-co-op-trust-hub",
+      "website": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/",
+      "repository": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub",
+      "description": "Public trust, co-working and asset-sharing pathway towards the proposed Ready S.E.T. Co-op on Minjerribah.",
+      "created_at": "2026-05-21T05:52:14Z",
+      "creation_date_brisbane": "2026-05-21",
+      "topics": [
+        "community-planning",
+        "community-wealth",
+        "minjerribah",
+        "public-proposal",
+        "ready-set-co-op"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Redland_Flow",
+      "search_identifier": "auraofintelligence-Redland_Flow",
+      "website": "https://auraofintelligence.github.io/Redland_Flow/",
+      "repository": "https://github.com/auraofintelligence/Redland_Flow",
+      "description": "Interactive Minjerribah Protocol concept exploring local employment, circular value and four proposed sovereignty stacks.",
+      "created_at": "2025-11-30T12:00:52Z",
+      "creation_date_brisbane": "2025-11-30",
+      "topics": [
+        "circular-economy",
+        "civic-prototype",
+        "community-planning",
+        "minjerribah",
+        "regenerative-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Redland_Flow/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Redlands_discovers_Luke_Hayes",
+      "search_identifier": "auraofintelligence-Redlands_discovers_Luke_Hayes",
+      "website": "https://auraofintelligence.github.io/Redlands_discovers_Luke_Hayes/",
+      "repository": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes",
+      "description": "A thought experiment connecting Redlands, P4A and i C. infinity music, HBOT, Aura Genesis and a fair go in the age of superintelligence.",
+      "created_at": "2026-10-16T07:47:11Z",
+      "creation_date_brisbane": "2026-10-16",
+      "topics": [
+        "ai-governance",
+        "aura-genesis",
+        "aura-of-intelligence",
+        "github-pages",
+        "hbot",
+        "joyful-responsible-abundance",
+        "minjerribah",
+        "p4a",
+        "redlands",
+        "thought-experiment",
+        "whole-systems-change"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Redlands_discovers_Luke_Hayes/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "Redlands_draft_ES2026-2031",
+      "search_identifier": "auraofintelligence-Redlands_draft_ES2026-2031",
+      "website": "https://auraofintelligence.github.io/Redlands_draft_ES2026-2031/",
+      "repository": "https://github.com/auraofintelligence/Redlands_draft_ES2026-2031",
+      "description": "Exploratory dashboard accompanying draft Redlands Coast economic-strategy thinking; not an official council publication.",
+      "created_at": "2026-04-19T00:27:50Z",
+      "creation_date_brisbane": "2026-04-19",
+      "topics": [
+        "civic-prototype",
+        "data-snapshot",
+        "interactive-dashboard",
+        "public-policy",
+        "redlands-coast"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/Redlands_draft_ES2026-2031/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "right-place-right-time",
+      "search_identifier": "auraofintelligence-right-place-right-time",
+      "website": "https://auraofintelligence.github.io/right-place-right-time/",
+      "repository": "https://github.com/auraofintelligence/right-place-right-time",
+      "description": "Tiered patronage/portfolio site v0 — local, national, regional, global. Provisional by design.",
+      "created_at": "2026-07-12T01:10:52Z",
+      "creation_date_brisbane": "2026-07-12",
+      "topics": [
+        "funding-research",
+        "github-pages",
+        "personal-portfolio",
+        "public-interest",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/right-place-right-time/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "sandworm-subterranean-systems",
+      "search_identifier": "auraofintelligence-sandworm-subterranean-systems",
+      "website": "https://auraofintelligence.github.io/sandworm-subterranean-systems/",
+      "repository": "https://github.com/auraofintelligence/sandworm-subterranean-systems",
+      "description": "Exploratory public concept for careful subterranean transport, materials, energy and resilience systems around Moreton Bay.",
+      "created_at": "2026-06-14T01:37:33Z",
+      "creation_date_brisbane": "2026-06-14",
+      "topics": [
+        "clean-energy",
+        "moreton-bay",
+        "subterranean-systems",
+        "systems-design",
+        "transport"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/sandworm-subterranean-systems/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "sbt_aura_builder",
+      "search_identifier": "auraofintelligence-sbt_aura_builder",
+      "website": "https://auraofintelligence.github.io/sbt_aura_builder/",
+      "repository": "https://github.com/auraofintelligence/sbt_aura_builder",
+      "description": "Static browser builder for exploring useful AI and personal technology support and exporting plain Markdown notes.",
+      "created_at": "2026-04-29T12:37:52Z",
+      "creation_date_brisbane": "2026-04-29",
+      "topics": [
+        "ai-tools",
+        "markdown-builder",
+        "privacy-first",
+        "strange-but-true"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/sbt_aura_builder/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "sbt_profile_starter",
+      "search_identifier": "auraofintelligence-sbt_profile_starter",
+      "website": "https://auraofintelligence.github.io/sbt_profile_starter/",
+      "repository": "https://github.com/auraofintelligence/sbt_profile_starter",
+      "description": "Eight-step browser tool for creating a portable local civic profile as plain Markdown, with answers kept in the current tab.",
+      "created_at": "2026-04-29T13:20:28Z",
+      "creation_date_brisbane": "2026-04-29",
+      "topics": [
+        "browser-tool",
+        "markdown-builder",
+        "privacy-first",
+        "strange-but-true"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/sbt_profile_starter/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "second-island",
+      "search_identifier": "auraofintelligence-second-island",
+      "website": "https://auraofintelligence.github.io/second-island/",
+      "repository": "https://github.com/auraofintelligence/second-island",
+      "description": "A living digital twin of Minjerribah / North Stradbroke Island, Quandamooka Country. The second build: instruments before the things they measure, real data before invented data, ground truth over assumptions.",
+      "created_at": "2026-08-20T03:23:20Z",
+      "creation_date_brisbane": "2026-08-20",
+      "topics": [
+        "digital-twin",
+        "minjerribah",
+        "open-data",
+        "simulation",
+        "source-led",
+        "web-app"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/second-island/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "shared-table-initiative",
+      "search_identifier": "auraofintelligence-shared-table-initiative",
+      "website": "https://auraofintelligence.github.io/shared-table-initiative/",
+      "repository": "https://github.com/auraofintelligence/shared-table-initiative",
+      "description": "Static public concept linking local food resilience, Garden Mate, community-ledger and noticeboard pathways on Minjerribah.",
+      "created_at": "2026-05-09T11:32:03Z",
+      "creation_date_brisbane": "2026-05-09",
+      "topics": [
+        "community-planning",
+        "minjerribah",
+        "noticeboard",
+        "resilience",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/shared-table-initiative/blob/master/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "songline_interface",
+      "search_identifier": "auraofintelligence-songline_interface",
+      "website": "https://auraofintelligence.github.io/songline_interface/",
+      "repository": "https://github.com/auraofintelligence/songline_interface",
+      "description": "google gemini 3rpo attempt at a songline interface",
+      "created_at": "2026-01-08T05:53:13Z",
+      "creation_date_brisbane": "2026-01-08",
+      "topics": [
+        "concept-site",
+        "cultural-protocol",
+        "github-pages",
+        "web-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/songline_interface/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "sovereign-music-australia",
+      "search_identifier": "auraofintelligence-sovereign-music-australia",
+      "website": "https://auraofintelligence.github.io/sovereign-music-australia/",
+      "repository": "https://github.com/auraofintelligence/sovereign-music-australia",
+      "description": "Public proposal for artist-led charts, awards, rights, deals, stages and shared revenue in Australian music.",
+      "created_at": "2026-08-29T16:56:54Z",
+      "creation_date_brisbane": "2026-08-30",
+      "topics": [
+        "artist-rights",
+        "australia",
+        "creative-economy",
+        "github-pages",
+        "music",
+        "music-industry"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/sovereign-music-australia/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "space-weather-news",
+      "search_identifier": "auraofintelligence-space-weather-news",
+      "website": "https://auraofintelligence.github.io/space-weather-news/",
+      "repository": "https://github.com/auraofintelligence/space-weather-news",
+      "description": "Early-access concept linking space-weather awareness with Earth modelling and resilience; not an operational forecast or warning service.",
+      "created_at": "2025-08-07T11:32:08Z",
+      "creation_date_brisbane": "2025-08-07",
+      "topics": [
+        "concept-site",
+        "earth-science",
+        "public-safety",
+        "resilience",
+        "space-weather"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/space-weather-news/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "spirit-animal-podcast",
+      "search_identifier": "auraofintelligence-spirit-animal-podcast",
+      "website": "https://auraofintelligence.github.io/spirit-animal-podcast/",
+      "repository": "https://github.com/auraofintelligence/spirit-animal-podcast",
+      "description": "",
+      "created_at": "2026-09-09T05:40:50Z",
+      "creation_date_brisbane": "2026-09-09",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/spirit-animal-podcast/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "SSB",
+      "search_identifier": "auraofintelligence-SSB",
+      "website": "https://auraofintelligence.github.io/SSB/",
+      "repository": "https://github.com/auraofintelligence/SSB",
+      "description": "Interactive explorer for the proposed Sovereign Space Builder architecture across systems, robotics, ethics, security and implementation.",
+      "created_at": "2025-08-12T07:43:49Z",
+      "creation_date_brisbane": "2025-08-12",
+      "topics": [
+        "interactive-dashboard",
+        "robotics",
+        "security",
+        "space",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/SSB/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "stradbroke-grants-lab",
+      "search_identifier": "auraofintelligence-stradbroke-grants-lab",
+      "website": "https://auraofintelligence.github.io/stradbroke-grants-lab/",
+      "repository": "https://github.com/auraofintelligence/stradbroke-grants-lab",
+      "description": "Grant research and noticeboard workbench for North Stradbroke Island / Minjerribah projects",
+      "created_at": "2026-05-06T05:23:03Z",
+      "creation_date_brisbane": "2026-05-06",
+      "topics": [
+        "community-projects",
+        "funding-research",
+        "minjerribah",
+        "research-workbench"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/stradbroke-grants-lab/blob/master/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-capsule-surge-lab",
+      "search_identifier": "auraofintelligence-straddie-capsule-surge-lab",
+      "website": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/",
+      "repository": "https://github.com/auraofintelligence/straddie-capsule-surge-lab",
+      "description": "Site-neutral Straddie capsule hotel, civic simulation, health-surge and island compute concept site.",
+      "created_at": "2026-05-21T14:24:10Z",
+      "creation_date_brisbane": "2026-05-22",
+      "topics": [
+        "concept-site",
+        "distributed-computing",
+        "health-planning",
+        "minjerribah",
+        "simulation"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-capsule-surge-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-clean-energy-superpower",
+      "search_identifier": "auraofintelligence-straddie-clean-energy-superpower",
+      "website": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+      "repository": "https://github.com/auraofintelligence/straddie-clean-energy-superpower",
+      "description": "Question-led clean energy options atlas for North Stradbroke Island / Minjerribah",
+      "created_at": "2026-06-14T06:00:03Z",
+      "creation_date_brisbane": "2026-06-14",
+      "topics": [
+        "clean-energy",
+        "minjerribah",
+        "public-guide",
+        "question-led"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-clean-energy-superpower/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-content-assets-kit",
+      "search_identifier": "auraofintelligence-straddie-content-assets-kit",
+      "website": "https://auraofintelligence.github.io/straddie-content-assets-kit/",
+      "repository": "https://github.com/auraofintelligence/straddie-content-assets-kit",
+      "description": "Browser tools for turning local media equipment notes into portable Markdown for content planning and agent handoffs.",
+      "created_at": "2026-05-07T05:09:57Z",
+      "creation_date_brisbane": "2026-05-07",
+      "topics": [
+        "browser-tool",
+        "markdown-builder",
+        "media-production",
+        "minjerribah"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-content-assets-kit/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-digital-twin-builders",
+      "search_identifier": "auraofintelligence-straddie-digital-twin-builders",
+      "website": "https://auraofintelligence.github.io/straddie-digital-twin-builders/",
+      "repository": "https://github.com/auraofintelligence/straddie-digital-twin-builders",
+      "description": "Plain-English Markdown builders for preparing custom scene prompts for image, video, 3D, 4D and simulation tools.",
+      "created_at": "2026-05-27T10:45:08Z",
+      "creation_date_brisbane": "2026-05-27",
+      "topics": [
+        "digital-twin",
+        "markdown-builder",
+        "minjerribah",
+        "spatial-computing"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-digital-twin-builders/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-digital-twin-explainer",
+      "search_identifier": "auraofintelligence-straddie-digital-twin-explainer",
+      "website": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/",
+      "repository": "https://github.com/auraofintelligence/straddie-digital-twin-explainer",
+      "description": "Plain-English explainer showing how phone scans could support a proposed community-controlled Minjerribah digital twin.",
+      "created_at": "2026-07-25T02:42:07Z",
+      "creation_date_brisbane": "2026-07-25",
+      "topics": [
+        "community-planning",
+        "digital-twin",
+        "lidar",
+        "minjerribah",
+        "public-guide"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-digital-twin-explainer/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-disaster-kiosks",
+      "search_identifier": "auraofintelligence-straddie-disaster-kiosks",
+      "website": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
+      "repository": "https://github.com/auraofintelligence/straddie-disaster-kiosks",
+      "description": "Public concept for everyday island screens that could support local resilience during disruptions; not an emergency warning service.",
+      "created_at": "2026-05-01T03:43:13Z",
+      "creation_date_brisbane": "2026-05-01",
+      "topics": [
+        "concept-site",
+        "minjerribah",
+        "noticeboard",
+        "resilience"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-disaster-kiosks/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-headline-open-mic",
+      "search_identifier": "auraofintelligence-straddie-headline-open-mic",
+      "website": "https://auraofintelligence.github.io/straddie-headline-open-mic/",
+      "repository": "https://github.com/auraofintelligence/straddie-headline-open-mic",
+      "description": "Daily funny headline board with a gentle Straddie open mic question",
+      "created_at": "2026-06-12T09:55:09Z",
+      "creation_date_brisbane": "2026-06-12",
+      "topics": [
+        "comedy",
+        "data-index",
+        "podcasting",
+        "source-led",
+        "two-dogs-podcast"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-headline-open-mic/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-makerspace-lab",
+      "search_identifier": "auraofintelligence-straddie-makerspace-lab",
+      "website": "https://auraofintelligence.github.io/straddie-makerspace-lab/",
+      "repository": "https://github.com/auraofintelligence/straddie-makerspace-lab",
+      "description": "Public Strange But True proposal site for a Dunwich maker-space, repair, recycling and local materials lab.",
+      "created_at": "2026-05-27T04:14:46Z",
+      "creation_date_brisbane": "2026-05-27",
+      "topics": [
+        "circular-economy",
+        "community-planning",
+        "makerspace",
+        "minjerribah"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-makerspace-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-news",
+      "search_identifier": "auraofintelligence-straddie-news",
+      "website": "https://auraofintelligence.github.io/straddie-news/",
+      "repository": "https://github.com/auraofintelligence/straddie-news",
+      "description": "Strategic research dashboard for a proposed mixed-media local news outlet on Minjerribah; not an operating newsroom.",
+      "created_at": "2025-12-07T00:51:41Z",
+      "creation_date_brisbane": "2025-12-07",
+      "topics": [
+        "community-media",
+        "minjerribah",
+        "public-proposal",
+        "research-workbench"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-news/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-night-market-lab",
+      "search_identifier": "auraofintelligence-straddie-night-market-lab",
+      "website": "https://auraofintelligence.github.io/straddie-night-market-lab/",
+      "repository": "https://github.com/auraofintelligence/straddie-night-market-lab",
+      "description": "Public onboarding site for Straddie market registrations, transport checks and noticeboard links.",
+      "created_at": "2026-05-22T07:39:43Z",
+      "creation_date_brisbane": "2026-05-22",
+      "topics": [
+        "browser-tool",
+        "event-planning",
+        "minjerribah",
+        "noticeboard"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-night-market-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-noticeboard-network",
+      "search_identifier": "auraofintelligence-straddie-noticeboard-network",
+      "website": "https://auraofintelligence.github.io/straddie-noticeboard-network/",
+      "repository": "https://github.com/auraofintelligence/straddie-noticeboard-network",
+      "description": "Static prototype for a shared public noticeboard network across Minjerribah while letting each publisher keep its own identity.",
+      "created_at": "2026-05-05T05:45:04Z",
+      "creation_date_brisbane": "2026-05-05",
+      "topics": [
+        "civic-tech",
+        "community-media",
+        "minjerribah",
+        "noticeboard",
+        "static-site"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-space-station-simulator",
+      "search_identifier": "auraofintelligence-straddie-space-station-simulator",
+      "website": "https://auraofintelligence.github.io/straddie-space-station-simulator/",
+      "repository": "https://github.com/auraofintelligence/straddie-space-station-simulator",
+      "description": "Static browser simulator for a Dunwich small-lot terrestrial space-station capsule habitat.",
+      "created_at": "2026-05-31T07:51:10Z",
+      "creation_date_brisbane": "2026-05-31",
+      "topics": [
+        "browser-tool",
+        "minjerribah",
+        "simulation",
+        "space-habitat",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-space-station-simulator/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-tenders-lab",
+      "search_identifier": "auraofintelligence-straddie-tenders-lab",
+      "website": "https://auraofintelligence.github.io/straddie-tenders-lab/",
+      "repository": "https://github.com/auraofintelligence/straddie-tenders-lab",
+      "description": "Public research workbench for Minjerribah tenders, procurement pathways and bid readiness; not a claim of eligibility.",
+      "created_at": "2026-07-04T11:32:11Z",
+      "creation_date_brisbane": "2026-07-04",
+      "topics": [
+        "minjerribah",
+        "procurement",
+        "research-workbench",
+        "tender-research"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-tenders-lab/blob/main/LICENCE.md",
+      "licence_label": "Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-tip-loop-lab",
+      "search_identifier": "auraofintelligence-straddie-tip-loop-lab",
+      "website": "https://auraofintelligence.github.io/straddie-tip-loop-lab/",
+      "repository": "https://github.com/auraofintelligence/straddie-tip-loop-lab",
+      "description": "Straddie Tip Loop Lab static site for local reuse, repair and material sovereignty.",
+      "created_at": "2026-06-15T11:07:15Z",
+      "creation_date_brisbane": "2026-06-15",
+      "topics": [
+        "circular-economy",
+        "minjerribah",
+        "question-led"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-tip-loop-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-twin-prototype",
+      "search_identifier": "auraofintelligence-straddie-twin-prototype",
+      "website": "https://auraofintelligence.github.io/straddie-twin-prototype/",
+      "repository": "https://github.com/auraofintelligence/straddie-twin-prototype",
+      "description": "",
+      "created_at": "2026-09-05T06:45:08Z",
+      "creation_date_brisbane": "2026-09-05",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/straddie-twin-prototype/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-twins",
+      "search_identifier": "auraofintelligence-straddie-twins",
+      "website": "https://auraofintelligence.github.io/straddie-twins/",
+      "repository": "https://github.com/auraofintelligence/straddie-twins",
+      "description": "A public companion site explaining the two digital twins of Minjerribah (North Stradbroke Island) part by part, for anyone arriving cold. Luke x Claude.",
+      "created_at": "2026-09-02T17:07:54Z",
+      "creation_date_brisbane": "2026-09-03",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/straddie-twins/blob/main/LICENCE.md",
+      "licence_label": "Aura of Intelligence Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "straddie-vitality-network-builders",
+      "search_identifier": "auraofintelligence-straddie-vitality-network-builders",
+      "website": "https://auraofintelligence.github.io/straddie-vitality-network-builders/",
+      "repository": "https://github.com/auraofintelligence/straddie-vitality-network-builders",
+      "description": "Public Straddie vitality network builders for HBOT/PADS, sauna, co-op planning and evidence notes.",
+      "created_at": "2026-05-20T23:54:57Z",
+      "creation_date_brisbane": "2026-05-21",
+      "topics": [
+        "community-planning",
+        "funding-research",
+        "health-planning",
+        "markdown-builder",
+        "minjerribah"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/straddie-vitality-network-builders/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "strange-but-true",
+      "search_identifier": "auraofintelligence-strange-but-true",
+      "website": "https://auraofintelligence.github.io/strange-but-true/",
+      "repository": "https://github.com/auraofintelligence/strange-but-true",
+      "description": "website mockup",
+      "created_at": "2026-04-27T11:59:21Z",
+      "creation_date_brisbane": "2026-04-27",
+      "topics": [
+        "ai-tools",
+        "community-projects",
+        "minjerribah",
+        "static-site",
+        "strange-but-true"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/strange-but-true/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "strange-but-true-ai-trust-index",
+      "search_identifier": "auraofintelligence-strange-but-true-ai-trust-index",
+      "website": "https://auraofintelligence.github.io/strange-but-true-ai-trust-index/",
+      "repository": "https://github.com/auraofintelligence/strange-but-true-ai-trust-index",
+      "description": "Plain-English AI lab trust index for Australians in the Strange But True family",
+      "created_at": "2026-06-16T23:58:30Z",
+      "creation_date_brisbane": "2026-06-17",
+      "topics": [
+        "ai-trust",
+        "australia",
+        "data-index",
+        "public-guide",
+        "strange-but-true"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/strange-but-true-ai-trust-index/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "strange-but-true-cosmic-nexus",
+      "search_identifier": "auraofintelligence-strange-but-true-cosmic-nexus",
+      "website": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/",
+      "repository": "https://github.com/auraofintelligence/strange-but-true-cosmic-nexus",
+      "description": "Developing public collaboration site for mapping mysteries, source trails, travel, film and civic systems in the Strange But True family.",
+      "created_at": "2026-05-23T09:30:22Z",
+      "creation_date_brisbane": "2026-05-23",
+      "topics": [
+        "civic-tech",
+        "filmmaking",
+        "research",
+        "strange-but-true",
+        "travel-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/strange-but-true-cosmic-nexus/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "strange-but-true-desire-atlas",
+      "search_identifier": "auraofintelligence-strange-but-true-desire-atlas",
+      "website": "https://auraofintelligence.github.io/strange-but-true-desire-atlas/",
+      "repository": "https://github.com/auraofintelligence/strange-but-true-desire-atlas",
+      "description": "A global atlas of readers, gatherings, markets and lawful routes for speculative love stories.",
+      "created_at": "2026-08-15T04:33:58Z",
+      "creation_date_brisbane": "2026-08-15",
+      "topics": [
+        "data-atlas",
+        "data-index",
+        "fiction",
+        "strange-but-true",
+        "travel-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/strange-but-true-desire-atlas/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "strange-but-true-travel-oracle",
+      "search_identifier": "auraofintelligence-strange-but-true-travel-oracle",
+      "website": "https://auraofintelligence.github.io/strange-but-true-travel-oracle/",
+      "repository": "https://github.com/auraofintelligence/strange-but-true-travel-oracle",
+      "description": "Private Strange But True travel oracle workspace",
+      "created_at": "2026-05-10T13:28:12Z",
+      "creation_date_brisbane": "2026-05-10",
+      "topics": [
+        "local-first",
+        "privacy-first",
+        "research-workbench",
+        "strange-but-true",
+        "travel-planning"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/strange-but-true-travel-oracle/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "test",
+      "search_identifier": "auraofintelligence-test",
+      "website": "https://auraofintelligence.github.io/test/",
+      "repository": "https://github.com/auraofintelligence/test",
+      "description": "Small visual-effects laboratory for testing an interactive cosmic background before use in other projects.",
+      "created_at": "2025-08-10T01:01:53Z",
+      "creation_date_brisbane": "2025-08-10",
+      "topics": [
+        "browser-experiment",
+        "cosmic-background",
+        "threejs"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/test/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "the-great-unveiling",
+      "search_identifier": "auraofintelligence-the-great-unveiling",
+      "website": "https://auraofintelligence.github.io/the-great-unveiling/",
+      "repository": "https://github.com/auraofintelligence/the-great-unveiling",
+      "description": "Multi-page Aura narrative concept presenting a vision, journey, technologies and initiatives without claiming they are funded or complete.",
+      "created_at": "2025-09-07T06:28:57Z",
+      "creation_date_brisbane": "2025-09-07",
+      "topics": [
+        "aura-of-intelligence",
+        "concept-site",
+        "interactive-story",
+        "public-proposal",
+        "systems-design"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/the-great-unveiling/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "tiggy-bestmann",
+      "search_identifier": "auraofintelligence-tiggy-bestmann",
+      "website": "https://auraofintelligence.github.io/tiggy-bestmann/",
+      "repository": "https://github.com/auraofintelligence/tiggy-bestmann",
+      "description": "Tiggy Bestmann: artist, traveller, happy-go-lucky fool and student of life",
+      "created_at": "2026-10-01T02:37:43Z",
+      "creation_date_brisbane": "2026-10-01",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/tiggy-bestmann/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "two-dogs-podcast-backend",
+      "search_identifier": "auraofintelligence-two-dogs-podcast-backend",
+      "website": "https://auraofintelligence.github.io/two-dogs-podcast-backend/",
+      "repository": "https://github.com/auraofintelligence/two-dogs-podcast-backend",
+      "description": "Public Two Dogs Podcast planning builders",
+      "created_at": "2026-05-17T07:11:17Z",
+      "creation_date_brisbane": "2026-05-17",
+      "topics": [
+        "browser-tool",
+        "markdown-builder",
+        "podcasting",
+        "two-dogs-podcast"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/two-dogs-podcast-backend/blob/main/LICENCE.md",
+      "licence_label": "Two Dogs Podcast Public Planning Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "UN-world-days",
+      "search_identifier": "auraofintelligence-UN-world-days",
+      "website": "https://auraofintelligence.github.io/UN-world-days/",
+      "repository": "https://github.com/auraofintelligence/UN-world-days",
+      "description": "Browser calendar for exploring UN international days, moon phases and ICS exports; not an official United Nations publication.",
+      "created_at": "2025-08-19T02:02:38Z",
+      "creation_date_brisbane": "2025-08-19",
+      "topics": [
+        "browser-tool",
+        "calendar",
+        "ics",
+        "moon-phases",
+        "united-nations"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/UN-world-days/blob/main/LICENSE",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "UNGA81-Luke-Hayes",
+      "search_identifier": "auraofintelligence-UNGA81-Luke-Hayes",
+      "website": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "repository": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "description": "A fair go in the age of intelligence. Joyful Responsible Abundance, a personal UNGA81 contribution by Luke Nathan Hayes. https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "created_at": "2026-09-21T08:10:00Z",
+      "creation_date_brisbane": "2026-09-21",
+      "topics": [
+        "ai-alignment",
+        "australia",
+        "civic-technology",
+        "community",
+        "gajra-earth",
+        "joyful-responsible-abundance",
+        "public-source",
+        "unga81"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "vfg-plan-access-lab",
+      "search_identifier": "auraofintelligence-vfg-plan-access-lab",
+      "website": "https://auraofintelligence.github.io/vfg-plan-access-lab/",
+      "repository": "https://github.com/auraofintelligence/vfg-plan-access-lab",
+      "description": "Strange But True remote-first demo for Australian skate park plan provenance, starting from VFG public projects. Public source licence. Not legal advice.",
+      "created_at": "2026-09-27T05:31:51Z",
+      "creation_date_brisbane": "2026-09-27",
+      "topics": [],
+      "licence_url": "https://github.com/auraofintelligence/vfg-plan-access-lab/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "virtual-solar-swarm",
+      "search_identifier": "auraofintelligence-virtual-solar-swarm",
+      "website": "https://auraofintelligence.github.io/virtual-solar-swarm/",
+      "repository": "https://github.com/auraofintelligence/virtual-solar-swarm",
+      "description": "Interactive mission design studio for a solar-system-wide satellite swarm: 200 targets, real orbits, launch windows, sensor packages and replacement cadence. A Luke x Claude build.",
+      "created_at": "2026-08-24T16:43:42Z",
+      "creation_date_brisbane": "2026-08-25",
+      "topics": [
+        "interactive-dashboard",
+        "simulation",
+        "space-missions"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/virtual-solar-swarm/blob/main/LICENCE.md",
+      "licence_label": "Strange But True Public Source Licence",
+      "visibility": "public"
+    },
+    {
+      "name": "windemere-skate-bowl-tender-workspace",
+      "search_identifier": "auraofintelligence-windemere-skate-bowl-tender-workspace",
+      "website": "https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/",
+      "repository": "https://github.com/auraofintelligence/windemere-skate-bowl-tender-workspace",
+      "description": "Exploratory workspace for Redland City Council Tender PDG-20842-1; not official council material, a final bid or engineering advice.",
+      "created_at": "2026-07-08T04:03:00Z",
+      "creation_date_brisbane": "2026-07-08",
+      "topics": [
+        "procurement",
+        "redlands-coast",
+        "research-workbench",
+        "sports",
+        "tender-research"
+      ],
+      "licence_url": "https://github.com/auraofintelligence/windemere-skate-bowl-tender-workspace/blob/main/LICENSE.md",
+      "licence_label": "Copyright (c) 2026 Luke Nathan Hayes. All rights reserved.  No licence is granted to copy, modify, distribute, sublicense, commerc",
+      "visibility": "public"
+    }
+  ]
+}

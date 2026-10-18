@@ -49,3 +49,17 @@ non-commercial use free, commercial rights reserved.
 [Mutual Futures](https://auraofintelligence.github.io/mutual-futures/) connects this project with Luke Nathan Hayes's proposed mutual business succession, Try Everything Once, Intermittent Retirement, personal intelligence, legal reflection, resilience, travel and wider civilisational horizon. The connection does not merge the projects or imply outside endorsement.
 
 [Source repository](https://github.com/auraofintelligence/mutual-futures) · [Project connections and sources](https://auraofintelligence.github.io/mutual-futures/sources.html)
+
+
+## Find a project from a comment
+
+The [project directory](find.html) lists the complete search phrases used in
+link-free comments, such as auraofintelligence-I-c-infinity-music-universe.
+It links each phrase to its website, repository and existing licence where
+available. All entries remain readable without JavaScript.
+
+The host-root robots.txt retains the existing training-crawler restrictions
+and points to the new sitemap.xml and existing project sitemaps. Each project
+retains its own licence and third-party terms.
+
+[Directory maintenance and crawler references](docs/project-discovery.md).

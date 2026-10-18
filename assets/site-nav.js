@@ -24,6 +24,7 @@
       blurb: 'The front door, the whole shape of the site, and what only Luke can do next.',
       links: [
         { href: 'index.html', title: 'Home', note: 'A Bridge to The Infinite: the founder story and the full showcase.' },
+        { href: 'find.html', title: 'Find a project', note: 'Find a site by its name, subject or full search phrase from a comment.' },
         { href: 'pathways/index.html', title: 'The Pathways', note: 'All seventeen tools, filterable, in one place.' },
         { href: 'courses/index.html', title: 'Courses', note: 'Short courses, live streams, and interactive builders.' },
         { href: 'videos.html', title: 'Videos', note: 'Everything on screen.' },
@@ -308,3 +309,4 @@
     if (norm(link.getAttribute('href')) === here) link.setAttribute('aria-current', 'page');
   });
 })();
+
