@@ -13,25 +13,31 @@
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
+Allow: /aura-verse-box/
 Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
+Allow: /aura-verse-box/
 Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: Claude-SearchBot
+Allow: /aura-verse-box/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
+Disallow: /aura-verse-box/
 Disallow: /aura-genesis-geode-atlas/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: ClaudeBot
+Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: Google-Extended
+Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 Sitemap: https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml
@@ -54,3 +60,5 @@ Sitemap: https://auraofintelligence.github.io/mutual-futures/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/virtual-solar-swarm/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/sitemap.xml
+
+Sitemap: https://auraofintelligence.github.io/aura-verse-box/sitemap.xml
