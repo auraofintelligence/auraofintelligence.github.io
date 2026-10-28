@@ -13,30 +13,54 @@
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
+Allow: /aura-whole-of-life/
+Allow: /aura-child-services/
+Allow: /aura-tourism/
+Allow: /aura-teacher-training/
 Allow: /aura-verse-box/
 Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
+Allow: /aura-whole-of-life/
+Allow: /aura-child-services/
+Allow: /aura-tourism/
+Allow: /aura-teacher-training/
 Allow: /aura-verse-box/
 Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: Claude-SearchBot
+Allow: /aura-whole-of-life/
+Allow: /aura-child-services/
+Allow: /aura-tourism/
+Allow: /aura-teacher-training/
 Allow: /aura-verse-box/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
+Disallow: /aura-whole-of-life/
+Disallow: /aura-child-services/
+Disallow: /aura-tourism/
+Disallow: /aura-teacher-training/
 Disallow: /aura-verse-box/
 Disallow: /aura-genesis-geode-atlas/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: ClaudeBot
+Disallow: /aura-whole-of-life/
+Disallow: /aura-child-services/
+Disallow: /aura-tourism/
+Disallow: /aura-teacher-training/
 Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: Google-Extended
+Disallow: /aura-whole-of-life/
+Disallow: /aura-child-services/
+Disallow: /aura-tourism/
+Disallow: /aura-teacher-training/
 Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
@@ -62,3 +86,7 @@ Sitemap: https://auraofintelligence.github.io/virtual-solar-swarm/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/sitemap.xml
 
 Sitemap: https://auraofintelligence.github.io/aura-verse-box/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/aura-whole-of-life/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/aura-child-services/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/aura-tourism/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/aura-teacher-training/sitemap.xml
