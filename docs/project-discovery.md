@@ -64,6 +64,44 @@ changed just to fit a topic. The separate slug topic still fits.
 Sitemaps and crawl access help discovery. They do not guarantee indexing,
 ranking or the timing of search updates.
 
+## Crawler merge audit: 1 November 2026
+
+Checked the default-branch trees of all 186 public repositories available at the
+time of this audit, including project-root files, built copies and scoped root
+snippets. Also fetched robots.txt at every public repository's Pages path; the
+live sweep found 37 files: this root, P4A's redirect to p4a.xyz, and 35 shared-host
+project files. This caught Outreach CMS's deployment-generated file, which is
+absent from its default-branch tree. Private repositories were excluded.
+The 35 shared-host projects with
+their own crawler files are now represented by their scoped rules, their sitemap
+declarations, or the host's existing default crawl access for sitemap-only files.
+
+All existing project training-crawler restrictions were already present and are
+preserved. Added 24 explicit project-scoped allow entries and eight missing
+sitemap declarations: 7-mile-admin-prep, RCC-RJC-Job-Ad-Formula, rough-as-guts,
+JRA-Product-Engine-Plan, installing-the-missing-middle,
+infinity-creative-workshop, escape-room-team-building and outreach-cms.
+Each new sitemap was
+fetched successfully and parsed as sitemap XML. The root file now declares 34
+unique sitemaps, including its own sitemap and earlier project declarations.
+
+P4A uses its separate p4a.xyz host-root policy. Files under the Knights Templar
+repository's source-repositories directory are reference snapshots, not policies
+for that site's root. Identical source/build copies were checked together.
+No project licence or third-party notice was changed.
+
+For future projects, check the actual public hosting URL and publishing source.
+Merge a project's scoped root snippet into the matching user-agent groups here.
+If a project has only an ordinary robots.txt, translate its local paths to the
+project prefix first. Never paste an unscoped project Disallow: / into this shared
+host policy. Named crawler groups do not inherit wildcard-group restrictions;
+preserve each project's intended restrictions for every applicable group.
+Custom domains keep their own policies.
+
+The directory generator adds sitemap declarations but does not import crawler
+groups from project repositories. Recheck this root file whenever a project
+policy changes, and verify the published root after deployment.
+
 ## Primary references
 
 - https://developers.google.com/crawling/docs/robots-txt/create-robots-txt

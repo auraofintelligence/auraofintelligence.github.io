@@ -23,6 +23,32 @@ Allow: /aura-verse-box/
 Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
+# Additional project rules merged from public repositories on 1 November 2026.
+Allow: /500-Queens-VC-2026/
+Allow: /7-mile-admin-prep/
+Allow: /Anglican-Diocese-82-Claytons-Amity/
+Allow: /C-Hour-introduction/
+Allow: /GAJRA-earth-infinity/
+Allow: /global-group-marriages/
+Allow: /grain-by-grain-documentary/
+Allow: /i-C-infinity-one-album-pack/
+Allow: /i-C-infinity-three-album-pack/
+Allow: /i-C-infinity-two-album-pack/
+Allow: /infinity-creative-workshop/
+Allow: /JRA-Product-Engine-Plan/
+Allow: /luke-nathan-hayes-man-and-mind/
+Allow: /moreton-bay-autonomous-mobility/
+Allow: /multi-site-Minjerribah-network/
+Allow: /mutual-futures/
+Allow: /Oceania-healthy-de-slop-co-ops/
+Allow: /outreach-cms/
+Allow: /RCC-RJC-Job-Ad-Formula/
+Allow: /ready-set-co-op-cultural-intelligence-node/
+Allow: /Redlands_discovers_Luke_Hayes/
+Allow: /rough-as-guts/
+Allow: /UNGA81-Luke-Hayes/
+Allow: /virtual-solar-swarm/
+
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
 Allow: /aura-disaster-resilience/
@@ -104,3 +130,13 @@ Sitemap: https://auraofintelligence.github.io/aura-tourism/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/world-travel-patterns/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/aura-teacher-training/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/aura-disaster-resilience/sitemap.xml
+
+# Additional verified project sitemaps merged on 1 November 2026.
+Sitemap: https://auraofintelligence.github.io/7-mile-admin-prep/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/JRA-Product-Engine-Plan/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/RCC-RJC-Job-Ad-Formula/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/escape-room-team-building/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/infinity-creative-workshop/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/installing-the-missing-middle/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/outreach-cms/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/rough-as-guts/sitemap.xml
