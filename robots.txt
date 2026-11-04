@@ -13,6 +13,7 @@
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
+Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
 Allow: /aura-direct-hardware/
@@ -116,6 +117,7 @@ Allow: /virtual-solar-swarm/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
+Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
 Allow: /aura-direct-hardware/
@@ -195,6 +197,7 @@ Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: Claude-SearchBot
+Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
 Allow: /aura-direct-hardware/
@@ -273,6 +276,7 @@ Allow: /aura-verse-box/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
+Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
 Disallow: /aura-direct-hardware/
@@ -352,6 +356,7 @@ Disallow: /aura-genesis-geode-atlas/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: ClaudeBot
+Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
 Disallow: /aura-direct-hardware/
@@ -430,6 +435,7 @@ Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: Google-Extended
+Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
 Disallow: /aura-direct-hardware/
@@ -524,6 +530,7 @@ Sitemap: https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/sit
 Sitemap: https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/multi-site-Minjerribah-network/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/mutual-futures/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/household-bill-check/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/virtual-solar-swarm/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/windemere-skate-bowl-tender-workspace/sitemap.xml
