@@ -13,6 +13,7 @@
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
+Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
@@ -117,6 +118,7 @@ Allow: /virtual-solar-swarm/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
+Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
@@ -197,6 +199,7 @@ Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: Claude-SearchBot
+Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Allow: /aukus-space-gambit/
@@ -276,6 +279,7 @@ Allow: /aura-verse-box/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
+Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
@@ -356,6 +360,7 @@ Disallow: /aura-genesis-geode-atlas/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: ClaudeBot
+Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
@@ -435,6 +440,7 @@ Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: Google-Extended
+Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
 Disallow: /aukus-space-gambit/
@@ -621,3 +627,5 @@ Sitemap: https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/site
 Sitemap: https://auraofintelligence.github.io/strange-but-true-desire-atlas/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/strange-but-true-travel-oracle/sitemap.xml
 Sitemap: https://auraofintelligence.github.io/tiggy-bestmann/sitemap.xml
+
+Sitemap: https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/sitemap.xml
