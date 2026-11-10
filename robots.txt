@@ -1,3 +1,5 @@
+# Redlands civic collection licence: https://auraofintelligence.github.io/redlands-mayoral-campaign/licence.html
+# Public search grants no commercial, political or AI-training permission.
 # Project directory and existing licence links: https://auraofintelligence.github.io/find.html
 # Search discovery grants no additional reuse, commercial or AI-training rights.
 # Each project's existing licence and third-party terms continue to apply.
@@ -13,6 +15,7 @@
 # Crawl directives rely on cooperation; they do not enforce copyright.
 
 User-agent: *
+Allow: /redlands-mayoral-campaign/
 Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -118,6 +121,7 @@ Allow: /virtual-solar-swarm/
 
 # Search discovery is separate from foundation-model training collection.
 User-agent: OAI-SearchBot
+Allow: /redlands-mayoral-campaign/
 Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -199,6 +203,7 @@ Allow: /aura-genesis-geode-atlas/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: Claude-SearchBot
+Allow: /redlands-mayoral-campaign/
 Allow: /p4a-xyz-committees-inquiries/
 Allow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -279,6 +284,7 @@ Allow: /aura-verse-box/
 Allow: /i-C-infinity-music-universe/
 
 User-agent: GPTBot
+Disallow: /redlands-mayoral-campaign/
 Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -360,6 +366,7 @@ Disallow: /aura-genesis-geode-atlas/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: ClaudeBot
+Disallow: /redlands-mayoral-campaign/
 Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -440,6 +447,7 @@ Disallow: /aura-verse-box/
 Disallow: /i-C-infinity-music-universe/
 
 User-agent: Google-Extended
+Disallow: /redlands-mayoral-campaign/
 Disallow: /p4a-xyz-committees-inquiries/
 Disallow: /household-bill-check/
 # Project choices applied on 1 November 2026.
@@ -629,3 +637,4 @@ Sitemap: https://auraofintelligence.github.io/strange-but-true-travel-oracle/sit
 Sitemap: https://auraofintelligence.github.io/tiggy-bestmann/sitemap.xml
 
 Sitemap: https://auraofintelligence.github.io/p4a-xyz-committees-inquiries/sitemap.xml
+Sitemap: https://auraofintelligence.github.io/redlands-mayoral-campaign/sitemap.xml
